@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1973",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1973.png",
+  "dna": "19b5f8f0f3c75de9bbff4494554a03381f7aa599",
+  "edition": 1973,
+  "date": 1650135461950,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Detachable Bullmerang Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Toko Medic Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Shadow Scimitar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

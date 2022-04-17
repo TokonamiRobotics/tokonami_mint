@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1970",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1970.png",
+  "dna": "7b74931842f10d1f6857681bf13f34ef57947128",
+  "edition": 1970,
+  "date": 1650135461418,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Heavy Tungsten Defensive Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Emerald Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Heavy Tungsten Defensive Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Berserker Claws"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

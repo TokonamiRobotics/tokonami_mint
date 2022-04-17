@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #308",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/308.png",
+  "dna": "2fe1423bd5b4f85536a9c62e9be262325bdb6a52",
+  "edition": 308,
+  "date": 1650135159845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Manouverability Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Heavy Charging Headbutter"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Saphire Multichromic High Altitude Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

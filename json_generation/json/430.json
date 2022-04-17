@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #430",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/430.png",
+  "dna": "fbd353a73e50924bfd24093eed5134c6b21c1dcb",
+  "edition": 430,
+  "date": 1650135180799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sakunomi First Moon"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Mantis Far sight Night Vision Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

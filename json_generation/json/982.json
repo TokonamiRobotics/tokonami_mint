@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #982",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/982.png",
+  "dna": "2cfea4dc54c17daa566b4653cb6e0aa314df1a80",
+  "edition": 982,
+  "date": 1650135279918,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson Desert Lands"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Amphibious Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullish Bear Chimeric Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Near vission Championship Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Shadow Scimitar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #328",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/328.png",
+  "dna": "0e05ccf8329f8187796d1e3725be02f9fe56bfff",
+  "edition": 328,
+  "date": 1650135163329,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

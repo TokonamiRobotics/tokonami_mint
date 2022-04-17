@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1762",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1762.png",
+  "dna": "811041cc0e212159959ce1738555fb28f7fba174",
+  "edition": 1762,
+  "date": 1650135422825,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sakunomi First Moon"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Manouverability Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tokurai Deathly Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reinforced Jaw Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Saphire Multichromic High Altitude Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Namis Frozen Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

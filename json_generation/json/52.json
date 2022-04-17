@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #52",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/52.png",
+  "dna": "dde88b0a758fa655262a011e1143fb2308c29e5d",
+  "edition": 52,
+  "date": 1650135109566,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kryptic Tokonami Base"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deep Water Hammering Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Tokassistant AR Battle Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reverbering Pistol"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

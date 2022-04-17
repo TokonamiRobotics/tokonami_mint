@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #240",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/240.png",
+  "dna": "0565a5ea5f81c0e9afe0500e73cedb63b3f150e3",
+  "edition": 240,
+  "date": 1650135146506,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sakunomi First Moon"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Tokassistant AR Battle Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #672",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/672.png",
+  "dna": "ba3f570204c037d3c540a56b769d348d83b61b0e",
+  "edition": 672,
+  "date": 1650135223663,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Ravenous Drilling Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Purple Haze Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Toko Medic Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Rapid Gliding Ruby Fin"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Purple Haze Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Ravenous Drilling Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reinforced Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

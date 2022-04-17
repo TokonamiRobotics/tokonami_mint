@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1477",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1477.png",
+  "dna": "aa1a5ba173e8d9847cd9b3b4c3cbaf47b4505323",
+  "edition": 1477,
+  "date": 1650135371189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple District Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Nitro Charged Thrusters"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Heavy Charging Headbutter"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Tokassistant AR Battle Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Namis Frozen Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

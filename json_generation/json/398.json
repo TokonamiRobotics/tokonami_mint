@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #398",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/398.png",
+  "dna": "93d6fd8c573c5d7c9c895847a639bca2e24af211",
+  "edition": 398,
+  "date": 1650135175031,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Amber Laser Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Sharding Emerald Blaster Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deep Water Hammering Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Heat Seeking Locator Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Amber Laser Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Shadow Scimitar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

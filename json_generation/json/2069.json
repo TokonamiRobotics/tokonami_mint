@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2069",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2069.png",
+  "dna": "8348b032f08cf5d12284483acac2d55abf52402d",
+  "edition": 2069,
+  "date": 1650135480813,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nami Galaxy&Solar System"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reinforced Jaw Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Amphibian Gill integrated Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reverbering Pistol"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

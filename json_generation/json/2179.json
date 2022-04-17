@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2179",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2179.png",
+  "dna": "e3fe895260d719d989f97dfd1490862cf48dbc00",
+  "edition": 2179,
+  "date": 1650135500608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forbidden Nuclear Reactor Outskirts"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Amber Laser Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tokurai Deathly Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullish Bear Chimeric Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Heat Seeking Locator Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Amber Laser Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

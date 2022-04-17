@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #731",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/731.png",
+  "dna": "23a10cc3918f0168487e7ba07a7208a422974a78",
+  "edition": 731,
+  "date": 1650135234110,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sakunomi First Moon"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Nami Forged UltraGold Knight Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Deep Ocean Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reverbering Pistol"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

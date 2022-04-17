@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1367",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1367.png",
+  "dna": "b6b8596fa66e4e3b988fb721318fbcd7280df1be",
+  "edition": 1367,
+  "date": 1650135351080,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson Desert Lands"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Mantis Eco location Antennae"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Long Distance Rust Goggles"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Berserker Claws"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

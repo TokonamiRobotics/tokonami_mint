@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #657",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/657.png",
+  "dna": "9d4e7fcf9fcd8f26e557cf62e422d4f9d78222b3",
+  "edition": 657,
+  "date": 1650135220577,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Saphire Multichromic High Altitude Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reinforced Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

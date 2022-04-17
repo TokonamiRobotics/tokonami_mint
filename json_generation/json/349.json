@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #349",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/349.png",
+  "dna": "6a4375e6a9e437b173ec24fd1c49c7048599f0ab",
+  "edition": 349,
+  "date": 1650135166764,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nami Galaxy&Solar System"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Toktor Oktopos Tentacles"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Venoumous Rhino Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Amphibious Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Near vission Championship Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Venomous Rhino Soulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #281",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/281.png",
+  "dna": "d8256edf94db21beeb592d027d8991870492a546",
+  "edition": 281,
+  "date": 1650135154385,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Exit"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Purple Haze Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tokurai Heavy mounted Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Haze Generator Compact Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Deep Ocean Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

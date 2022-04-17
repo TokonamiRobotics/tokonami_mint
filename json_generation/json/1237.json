@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1237",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1237.png",
+  "dna": "19bac7446f374918a4e360fc2d6ff694a0d62d37",
+  "edition": 1237,
+  "date": 1650135327779,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forbidden Nuclear Reactor Outskirts"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Ravenous Drilling Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Sharding Emerald Blaster Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reinforced Jaw Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Rapid Gliding Ruby Fin"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Tokassistant AR Battle Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Ravenous Drilling Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

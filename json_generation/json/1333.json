@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1333",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1333.png",
+  "dna": "4f6c3fba56984e31b070503ed7bbfb233d827c9f",
+  "edition": 1333,
+  "date": 1650135345109,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mount Toji"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Haze Generator Compact Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Mantis Far sight Night Vision Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

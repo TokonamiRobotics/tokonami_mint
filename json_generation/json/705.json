@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #705",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/705.png",
+  "dna": "3b80f60d51d6b03e5b489768efe0e73b1edff896",
+  "edition": 705,
+  "date": 1650135229181,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mount Toji"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Manouverability Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Amphibious Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deep Water Hammering Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reverbering Pistol"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

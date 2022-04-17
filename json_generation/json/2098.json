@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2098",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2098.png",
+  "dna": "03a88115a7b528d4d87b5eeb74cf01392e27fc41",
+  "edition": 2098,
+  "date": 1650135485893,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Exit"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Sharding Emerald Blaster Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Rapid Gliding Ruby Fin"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

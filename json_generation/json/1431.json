@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1431",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1431.png",
+  "dna": "4b30cc5c3e33b76d43da67cbf9f2fcdd5cb7a4b2",
+  "edition": 1431,
+  "date": 1650135362827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forbidden Nuclear Reactor Outskirts"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Lightweight blasting Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Emerald Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reinforced Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

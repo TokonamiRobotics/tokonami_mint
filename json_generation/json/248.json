@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #248",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/248.png",
+  "dna": "57f66a1619f504386d62976ee32b7e402238cf2d",
+  "edition": 248,
+  "date": 1650135147936,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullish Bear Chimeric Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Tokassistant AR Battle Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Namis Frozen Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #825",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/825.png",
+  "dna": "28f7941ffe24447b5690571b573d07f2535bcdec",
+  "edition": 825,
+  "date": 1650135251319,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Exit"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Ravenous Drilling Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Toko Medic Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Ravenous Drilling Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reverbering Pistol"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1335",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1335.png",
+  "dna": "c0bc69f3d36c2739de561c315aa5aee6b05b721b",
+  "edition": 1335,
+  "date": 1650135345452,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sacred Nami Meditation Ice Mountain"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Venoumous Rhino Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Detachable Bullmerang Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reinforced Jaw Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Tokassistant AR Battle Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Venomous Rhino Soulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reinforced Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

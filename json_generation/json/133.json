@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #133",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/133.png",
+  "dna": "d2b584c9e7dd201508b4044e7ecae918de6715ef",
+  "edition": 133,
+  "date": 1650135125271,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson Desert Lands"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Heavy Tungsten Defensive Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Pain Coated Horns Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Saphire Multichromic High Altitude Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Heavy Tungsten Defensive Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reverbering Pistol"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

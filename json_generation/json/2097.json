@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2097",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2097.png",
+  "dna": "9ea181254f0651bbe6ca4ded2dd652d275aceeaf",
+  "edition": 2097,
+  "date": 1650135485741,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Toktor Oktopos Tentacles"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Amber Laser Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Purple Haze Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Amber Laser Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

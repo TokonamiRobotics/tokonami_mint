@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1893",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1893.png",
+  "dna": "d15f0b465267b4dfa38d0123b88de7a57695781b",
+  "edition": 1893,
+  "date": 1650135446582,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Venoumous Rhino Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deep Water Hammering Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Heavy Charging Headbutter"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Long Distance Rust Goggles"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Venomous Rhino Soulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reverbering Pistol"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

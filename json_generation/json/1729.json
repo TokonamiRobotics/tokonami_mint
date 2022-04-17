@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1729",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1729.png",
+  "dna": "eece95ec67279f580d69359da5d9d759ee417912",
+  "edition": 1729,
+  "date": 1650135416682,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sakunomi First Moon"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tokurai Deathly Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tokurai Heavy mounted Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Purple Haze Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Shadow Scimitar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

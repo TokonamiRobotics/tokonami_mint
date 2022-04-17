@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1908",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1908.png",
+  "dna": "2acb440adaf2a5408f876a6e86ed04b42c53bb91",
+  "edition": 1908,
+  "date": 1650135450185,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Exit"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Manouverability Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullish Bear Chimeric Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Pain Coated Horns Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Tokassistant AR Battle Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reinforced Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

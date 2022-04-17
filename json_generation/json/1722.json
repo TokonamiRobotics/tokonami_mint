@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1722",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1722.png",
+  "dna": "9edce1ce304479c29102d670146589f7146f9c2e",
+  "edition": 1722,
+  "date": 1650135415453,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson Desert Lands"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Pain Coated Horns Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Tokassistant AR Battle Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

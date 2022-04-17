@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1741",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1741.png",
+  "dna": "3415e701b48c0edd68dffab1a4f671a6cd609f58",
+  "edition": 1741,
+  "date": 1650135418871,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Nitro Charged Thrusters"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tokurai Deathly Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deep Water Hammering Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Haze Generator Compact Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Long Distance Rust Goggles"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1166",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1166.png",
+  "dna": "6f581c8768df1d54d92d17ddb0306b43556fe05d",
+  "edition": 1166,
+  "date": 1650135314858,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Lightweight blasting Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Pain Coated Horns Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blasting Warhammer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

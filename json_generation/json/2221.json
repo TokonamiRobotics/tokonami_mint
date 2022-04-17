@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2221",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2221.png",
+  "dna": "79ed84094f6e1587c0505b8bf137691c72fd4b0b",
+  "edition": 2221,
+  "date": 1650135508624,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson Desert Lands"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Lightweight blasting Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reinforced Jaw Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Haze Generator Compact Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Emerald Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Berserker Claws"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1035",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1035.png",
+  "dna": "e3cb5ac56d44e9f20044aea53db8efaf377d78b8",
+  "edition": 1035,
+  "date": 1650135289491,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sacred Nami Meditation Ice Mountain"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Toktor Oktopos Tentacles"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Detachable Bullmerang Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullish Bear Chimeric Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Tokurai Rank Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Near vission Championship Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

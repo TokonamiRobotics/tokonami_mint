@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #782",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/782.png",
+  "dna": "9b125abc882ad5c8d40619503f7c61b51ee88e9c",
+  "edition": 782,
+  "date": 1650135243508,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Exit"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Nami Forged UltraGold Knight Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Rapid Gliding Ruby Fin"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Long Distance Rust Goggles"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Shadow Scimitar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

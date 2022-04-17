@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1859",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1859.png",
+  "dna": "afc8d690ca8cfd876043c7fbb8fac1cc8a20d784",
+  "edition": 1859,
+  "date": 1650135440289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kryptic Tokonami Base"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Manouverability Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Heavy Tungsten Defensive Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Amphibious Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Heavy Charging Headbutter"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Mantis Far sight Night Vision Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Heavy Tungsten Defensive Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Berserker Claws"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

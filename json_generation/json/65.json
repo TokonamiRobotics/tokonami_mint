@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #65",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/65.png",
+  "dna": "a704a92a54d4a2bc7ef040e5cf625bbcc1a6781a",
+  "edition": 65,
+  "date": 1650135112286,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson Desert Lands"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Haze Generator Compact Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Long Distance Rust Goggles"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

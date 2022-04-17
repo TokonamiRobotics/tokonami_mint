@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1690",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1690.png",
+  "dna": "8b116a0e91148954af52ebf51fe828f33641db27",
+  "edition": 1690,
+  "date": 1650135409597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Exit"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deep Water Hammering Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Tokassistant AR Battle Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blasting Warhammer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

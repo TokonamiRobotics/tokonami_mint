@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #577",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/577.png",
+  "dna": "35ace01c7d284bc91e162f45c5457c39d6dd4ad4",
+  "edition": 577,
+  "date": 1650135206088,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sakunomi First Moon"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Ravenous Drilling Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deep Water Hammering Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Pain Coated Horns Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Emerald Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Ravenous Drilling Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #168",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/168.png",
+  "dna": "6b02e3321dd0861b5550a05da1ae66f8dfb5b699",
+  "edition": 168,
+  "date": 1650135131940,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson Desert Lands"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Purple Haze Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Saphire Multichromic High Altitude Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Berserker Claws"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #534",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/534.png",
+  "dna": "559633a7d9bff95682098540dcb70d35ba1f16c5",
+  "edition": 534,
+  "date": 1650135198652,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forbidden Nuclear Reactor Outskirts"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Sharding Emerald Blaster Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Tokurai Rank Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Long Distance Rust Goggles"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reverbering Pistol"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

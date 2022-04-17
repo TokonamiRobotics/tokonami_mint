@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1943",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1943.png",
+  "dna": "298830bdf53130b77b11e78dba8b77ec6500f4b1",
+  "edition": 1943,
+  "date": 1650135456614,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forbidden Nuclear Reactor Outskirts"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Nitro Charged Thrusters"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullish Bear Chimeric Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Heavy Charging Headbutter"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Long Distance Rust Goggles"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

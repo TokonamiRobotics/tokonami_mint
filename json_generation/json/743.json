@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #743",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/743.png",
+  "dna": "2bcdcbb2c6b2447f01daf8d976a8345eaeb03b5d",
+  "edition": 743,
+  "date": 1650135236311,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forbidden Nuclear Reactor Outskirts"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Sharding Emerald Blaster Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Mantis Far sight Night Vision Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Namis Frozen Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

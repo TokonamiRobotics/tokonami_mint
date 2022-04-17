@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #847",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/847.png",
+  "dna": "393da560b7018103a808bde035a4f724530d9463",
+  "edition": 847,
+  "date": 1650135255316,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forbidden Nuclear Reactor Outskirts"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Venoumous Rhino Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tokurai Deathly Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reinforced Jaw Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Haze Generator Compact Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Near vission Championship Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Venomous Rhino Soulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

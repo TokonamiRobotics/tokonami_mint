@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #949",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/949.png",
+  "dna": "aab956e26f22458b34f92f2c63fcd0bb23eafc3d",
+  "edition": 949,
+  "date": 1650135274366,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Lightweight blasting Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Toko Medic Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Haze Generator Compact Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

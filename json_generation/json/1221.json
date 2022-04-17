@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1221",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1221.png",
+  "dna": "fb2517076ac57eb3d6b7741e4c7f269339904c8a",
+  "edition": 1221,
+  "date": 1650135324787,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nami Galaxy&Solar System"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Venoumous Rhino Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Amphibious Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Pain Coated Horns Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Amphibian Gill integrated Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Venomous Rhino Soulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

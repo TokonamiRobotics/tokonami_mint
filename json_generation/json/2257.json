@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2257",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2257.png",
+  "dna": "56bb16dce78856f585ea918699f6fd9ed5abf972",
+  "edition": 2257,
+  "date": 1650135515414,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mount Toji"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reinforced Jaw Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Haze Generator Compact Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Mantis Far sight Night Vision Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reinforced Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

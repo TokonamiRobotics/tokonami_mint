@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #919",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/919.png",
+  "dna": "dfb93f4d35794a069cf31ce419d8e6095f00cbd1",
+  "edition": 919,
+  "date": 1650135268783,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson Desert Lands"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Artificial Assistant Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Purple Haze Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Deep Ocean Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Artificial Assistant Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

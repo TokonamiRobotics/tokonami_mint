@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1952",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1952.png",
+  "dna": "3f0fde17a052853191b0834e41a9be78a4ede813",
+  "edition": 1952,
+  "date": 1650135458199,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Toktor Oktopos Tentacles"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Toko Medic Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Haze Generator Compact Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Deep Ocean Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blasting Warhammer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

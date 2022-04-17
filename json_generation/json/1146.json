@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1146",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1146.png",
+  "dna": "f29ac74714d493294213541bd4cd825dd169bd7c",
+  "edition": 1146,
+  "date": 1650135311202,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson Desert Lands"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Toktor Oktopos Tentacles"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Nami Forged UltraGold Knight Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Mantis Eco location Antennae"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Deep Ocean Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Namis Frozen Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

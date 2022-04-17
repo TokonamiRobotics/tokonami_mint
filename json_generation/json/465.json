@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #465",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/465.png",
+  "dna": "97135828c671afc566fe926d2f268e863f1e6c8d",
+  "edition": 465,
+  "date": 1650135186719,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Altitute Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tokurai Heavy mounted Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Tokurai Rank Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Deep Ocean Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

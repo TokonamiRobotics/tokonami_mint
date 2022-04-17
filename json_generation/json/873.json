@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #873",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/873.png",
+  "dna": "4820bb968820a8365b37330fea784da866e6da76",
+  "edition": 873,
+  "date": 1650135260123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mount Toji"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Lightweight blasting Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deep Water Hammering Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Nami Forged UltraGold Knight Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

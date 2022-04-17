@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1277",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1277.png",
+  "dna": "bf38ae4acb079e14ea4ce3ddd2d1a63b82cfb3ea",
+  "edition": 1277,
+  "date": 1650135335094,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Manouverability Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Purple Haze Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deep Water Hammering Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Tokurai Rank Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Purple Haze Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reinforced Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

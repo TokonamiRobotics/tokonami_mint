@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1346",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1346.png",
+  "dna": "13a604a56daab659f8bd805d99cfeadd82e78607",
+  "edition": 1346,
+  "date": 1650135347370,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sacred Nami Meditation Ice Mountain"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Amphibious Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Saphire Multichromic High Altitude Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

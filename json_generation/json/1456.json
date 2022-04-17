@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1456",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1456.png",
+  "dna": "0ca74b3f40cb907eb23a4a0c18a8ef7da3e3f159",
+  "edition": 1456,
+  "date": 1650135367393,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple District Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Tokurai Rank Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Near vission Championship Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

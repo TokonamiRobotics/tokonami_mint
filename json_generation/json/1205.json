@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1205",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1205.png",
+  "dna": "056e099f2f2ad53488af5b9f24378913fc0dc181",
+  "edition": 1205,
+  "date": 1650135321903,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sacred Nami Meditation Ice Mountain"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Manouverability Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Deep Ocean Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "General Healing Shoulder Kit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reverbering Pistol"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1161",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1161.png",
+  "dna": "53fce6a00b5dff2602027a4ed26207c658d81439",
+  "edition": 1161,
+  "date": 1650135313919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nami Galaxy&Solar System"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Teseract infused Hyper Engine"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tokurai Deathly Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Heavy Charging Headbutter"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Saphire Multichromic High Altitude Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blasting Warhammer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

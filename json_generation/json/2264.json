@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2264",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2264.png",
+  "dna": "869717935ff1ba43f5670788950152bc42172753",
+  "edition": 2264,
+  "date": 1650135516681,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Last Sunrise"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Nitro Charged Thrusters"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Purple Haze Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Heavy Charging Headbutter"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Long Distance Rust Goggles"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reinforced Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1844",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1844.png",
+  "dna": "c949ab2e486b60a1095dc02eb87fd0fa4b1ec96a",
+  "edition": 1844,
+  "date": 1650135437627,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson Desert Lands"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Toktor Oktopos Tentacles"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Amphibious Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Pain Coated Horns Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blasting Warhammer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

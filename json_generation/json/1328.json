@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1328",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1328.png",
+  "dna": "6d507c18eb358f2452275cd5d222915c97d47de2",
+  "edition": 1328,
+  "date": 1650135344256,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple District Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Heavy Charging Headbutter"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Tokassistant AR Battle Glasses"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Shadow Scimitar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

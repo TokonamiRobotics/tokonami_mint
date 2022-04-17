@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2157",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2157.png",
+  "dna": "c05a9cd05fd53b4f6b0615b6de1804064fb3af05",
+  "edition": 2157,
+  "date": 1650135496441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sacred Nami Meditation Ice Mountain"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Heavy Tungsten Defensive Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deep Water Hammering Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Vultron Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Heat Seeking Locator Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Heavy Tungsten Defensive Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Shadow Scimitar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

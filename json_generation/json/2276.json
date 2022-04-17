@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2276",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2276.png",
+  "dna": "dc61b2996d7c0e33d938b0181e810d6aa35a4868",
+  "edition": 2276,
+  "date": 1650135518934,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple District Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tokurai Heavy mounted Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Nami Forged UltraGold Knight Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Purple Haze Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Toko Ray Shooting Unit"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Shadow Scimitar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

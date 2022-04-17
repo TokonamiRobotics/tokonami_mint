@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2113",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2113.png",
+  "dna": "850b661e49b728ce0c9ea4b5a30473c58acdf466",
+  "edition": 2113,
+  "date": 1650135488578,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mount Toji"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Air Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Tokurai Shielded Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Namis Frozen Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

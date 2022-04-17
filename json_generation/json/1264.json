@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #1264",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/1264.png",
+  "dna": "c9eb006c6f4178fcb622adcecc0dbeb37ce3c5f5",
+  "edition": 1264,
+  "date": 1650135332754,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kryptic Tokonami Base"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "High Manouverability Wings"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Amber Laser Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Lightweight blasting Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Mantis Eco location Antennae"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Amphibian Gill integrated Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Amber Laser Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reinforced Blade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

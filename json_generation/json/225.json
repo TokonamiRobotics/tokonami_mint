@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #225",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/225.png",
+  "dna": "ec572034b43f7a7e323f0d33bba40602dcf7dfa1",
+  "edition": 225,
+  "date": 1650135143139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple District Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Vultron Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laser Blasting Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Heavy Charging Headbutter"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Shadow Scimitar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

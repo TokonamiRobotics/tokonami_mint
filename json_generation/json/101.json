@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #101",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/101.png",
+  "dna": "155be0d27d01deeaa9516ab3933f11bd51627eb4",
+  "edition": 101,
+  "date": 1650135119670,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater Base Entrance"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Nami Forged UltraGold Knight Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Nami Forged UltraGold Knight Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Rapid Gliding Sunvisor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Purple Haze Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

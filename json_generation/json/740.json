@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #740",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/740.png",
+  "dna": "eba20693add4d11ad478dd71275b9f285d8e9ca0",
+  "edition": 740,
+  "date": 1650135235670,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kryptic Tokonami Base"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Nitro Charged Thrusters"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Amber Laser Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Toko Medic Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turbo Assisted head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Venomous Viper Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Deep Ocean Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Ground Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Amber Laser Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Shadow Scimitar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

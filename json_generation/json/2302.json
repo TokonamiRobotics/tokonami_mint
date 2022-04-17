@@ -1,0 +1,51 @@
+{
+  "name": "Tokonami #2302",
+  "description": "Tokonami to the Moon",
+  "image": "ipfs://NewUriToReplace/2302.png",
+  "dna": "0f58851a10dcd695045e7b06a009a03d734ba2ea",
+  "edition": 2302,
+  "date": 1650135524266,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kryptic Tokonami Base"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rightarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Detachable Bullmerang Chest Plate"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vultron Head"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Haze Generator Compact Helmet"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Amphibian Gill integrated Visor"
+    },
+    {
+      "trait_type": "Medal",
+      "value": "Amphibian Unit"
+    },
+    {
+      "trait_type": "Leftarm",
+      "value": "Laser Shooter Shoulder Plate"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Reverbering Pistol"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
