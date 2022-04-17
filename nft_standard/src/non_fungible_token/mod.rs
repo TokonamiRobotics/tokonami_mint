@@ -24,3 +24,4 @@ pub use self::core::NonFungibleToken;
 pub use macros::*;
 
 pub mod events;
+pub mod royalty;

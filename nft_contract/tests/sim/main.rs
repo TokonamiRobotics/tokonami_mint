@@ -220,4 +220,15 @@ fn simulate_full_flow() {
     assert_eq!(minted_1, "1".to_string());
     assert_eq!(minted_system, "1".to_string());
 
+    consumer1.call(
+        nft_account.account_id(), 
+        "nft_payout",
+        &json!({
+            "token_id": "1",
+            "balance": U128(1000),
+            "max_len_payout": 5
+        }).to_string().into_bytes(),
+        GAS_ATTACHMENT, 
+        1
+    ).assert_success();
 }
