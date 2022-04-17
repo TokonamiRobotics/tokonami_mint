@@ -180,6 +180,14 @@ impl Contract {
         true
     }
 
+    //add people to whitelist
+    pub fn is_whitelist(
+        &self,
+        account_id: AccountId
+    ) -> u128 {
+        self.whitelist.get(account_id).unwrap_or(0);
+    }
+
     //add metadatalookup
     #[payable]
     pub fn add_metadatalookup(
