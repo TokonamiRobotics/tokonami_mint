@@ -10,7 +10,8 @@ import {
     addMetadata,
     retrieveFunds,
     unlockSales,
-    updateMintingCost
+    updateMintingCost,
+    unlockWhitelist
 } from "./../deploy/call_contract_function.js"
 
 //import 
@@ -176,6 +177,32 @@ yargs(hideBin(process.argv))
         },
         (argv) => {
             unlockSales(argv.ownerAccount, argv.contractAccount, argv.status);
+        }
+    )
+    .command(
+        'unlockWhitelist <ownerAccount> <contractAccount> <status>', 'change locked status of minting',
+        (yargs) => {
+            yargs.positional(
+                'ownerAccount', {
+                    type: 'string',
+                    default: 'Cambi',
+                    describe: 'account that will send the transaction'
+                });
+            yargs.positional(
+                'contractAccount', {
+                    type: 'string',
+                    default: 'Cambi',
+                    describe: 'account that hosts the contract'
+                });
+            yargs.positional(
+                'status', {
+                    type: 'string',
+                    default: 'Cambi',
+                    describe: 'new locked status for contract'
+                });
+        },
+        (argv) => {
+            unlockWhitelist(argv.ownerAccount, argv.contractAccount, argv.status);
         }
     )
     .command(

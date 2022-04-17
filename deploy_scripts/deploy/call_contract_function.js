@@ -173,6 +173,21 @@ async function unlockSales(ownerAccount, contractAccount, status) {
     return result;
 }
 
+//lock/unlock whitelist
+async function unlockWhitelist(ownerAccount, contractAccount, status) {
+    const contract = await buildContractObject(ownerAccount, contractAccount);
+
+    const result = await contract.unlock_whitelist({
+            whitelist_lock: (status === "true")
+        },
+        "300000000000000",
+        "1"
+    );
+
+    console.log(result);
+    return result;
+}
+
 //change minting cost
 async function updateMintingCost(ownerAccount, contractAccount, newCost) {
     const contract = await buildContractObject(ownerAccount, contractAccount);
@@ -195,5 +210,6 @@ export {
     addMetadata,
     retrieveFunds,
     unlockSales,
-    updateMintingCost
+    updateMintingCost,
+    unlockWhitelist
 };

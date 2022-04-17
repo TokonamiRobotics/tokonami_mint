@@ -85,6 +85,15 @@ nft-tokonami unlockSales <ownerAccount> <contractAccount> <status>
 ownerAccount is the owner account you created to manage the game  
 contractAccount is the account to which the contract was deployed  
 status use false to unlock and true to lock
+
+### lock/unlock whitelist
+When the contract is initialize, the minting of NFTs is only allowed for whitelisted wallets, to unlock it or relock it, run this call:
+```
+nft-tokonami unlockWhitelist <ownerAccount> <contractAccount> <status>
+```
+ownerAccount is the owner account you created to manage the game  
+contractAccount is the account to which the contract was deployed  
+status use false to unlock and true to lock
   
 ### retrieve the funds
 To retrieve the minting funds to the owner of the project account, use this call:
