@@ -45,11 +45,11 @@ fn simulate_full_flow() {
 
     let root = init_simulator(Some(genesis));
 
-    let dev_account = root.create_user("dev_account".to_string(), to_yocto("100"));
+    let dev_account = root.create_user("dev_account".to_string(), to_yocto("10000"));
     
-    let consumer1 = root.create_user("consumer1".to_string(), to_yocto("100"));
-    let consumer2 = root.create_user("consumer2".to_string(), to_yocto("100"));
-    let consumer3 = root.create_user("consumer3".to_string(), to_yocto("100"));
+    let consumer1 = root.create_user("consumer1".to_string(), to_yocto("10000"));
+    let consumer2 = root.create_user("consumer2".to_string(), to_yocto("10000"));
+    let consumer3 = root.create_user("consumer3".to_string(), to_yocto("10000"));
 
     //deploy contract
     let nft_account = root.deploy(
@@ -75,7 +75,9 @@ fn simulate_full_flow() {
         &json!({
             "owner_id": dev_account.account_id(),
             "metadata": nft_contract_metadata,
-            "mint_cost": U128(ONE_NEAR)
+            "mint_cost": U128(ONE_NEAR),
+            "royalties_account": dev_account.account_id(),
+            "royalties_value": U128(500)
         }).to_string().into_bytes(),
         GAS_ATTACHMENT, 
         0
@@ -144,7 +146,7 @@ fn simulate_full_flow() {
             "quantity": U128(2)
         }).to_string().into_bytes(),
         GAS_ATTACHMENT, 
-        2010660000000000000000000
+        2012280000000000000000000
     ).assert_success();
 
     let minted: String = consumer1.call(
@@ -167,7 +169,7 @@ fn simulate_full_flow() {
                 "quantity": U128(5)
             }).to_string().into_bytes(),
             GAS_ATTACHMENT, 
-            1006020000000000000000000
+            201228000000000000000000000
         )
     );
     
@@ -179,7 +181,7 @@ fn simulate_full_flow() {
                 "quantity": U128(1)
             }).to_string().into_bytes(),
             GAS_ATTACHMENT, 
-            1006020000000000000000000
+            20122800000000000000000000
         )
     );
     
@@ -209,7 +211,7 @@ fn simulate_full_flow() {
         nft_account.account_id(), 
         "nft_supply_for_owner",
         &json!({
-            "account_id": consumer1.account_id()
+            "account_id": "system"
         }).to_string().into_bytes(),
         GAS_ATTACHMENT, 
         1

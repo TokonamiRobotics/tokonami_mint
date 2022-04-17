@@ -5,7 +5,7 @@ import fs from "fs";
 import buildContractObject from "./_contract_object.js";
 import { BN } from "bn.js";
 
-async function initializeContract(ownerAccount, contractAccount, mint_cost) {
+async function initializeContract(ownerAccount, contractAccount, mint_cost, royalties_account, royalties_value) {
     const contract = await buildContractObject(ownerAccount, contractAccount);
 
     let namedArgs = {
@@ -26,7 +26,9 @@ async function initializeContract(ownerAccount, contractAccount, mint_cost) {
             reference: null,
             reference_hash: null,
         },
-        mint_cost: nearAPI.utils.format.parseNearAmount(mint_cost)
+        mint_cost: nearAPI.utils.format.parseNearAmount(mint_cost),
+        royalties_account: royalties_account,
+        royalties_value: royalties_value
 
     };
 

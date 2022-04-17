@@ -43,6 +43,7 @@ pub struct Contract {
     pub tokens: NonFungibleToken,
     pub metadata: LazyOption<NFTContractMetadata>,
 
+    pub perpetual_royalties: HashMap<AccountId, u128>,
     pub whitelist: LookupMap<AccountId, u128>,
     pub mint_cost: u128,
     pub current_id: u128,
@@ -59,6 +60,7 @@ enum StorageKey {
     TokenMetadata,
     Enumeration,
     Approval,
+    Royalties,
     Whitelist,
     MetadataLookup
 }
@@ -70,7 +72,7 @@ impl Contract {
     #[init]
     pub fn new_default_meta(owner_id: ValidAccountId) -> Self {
         Self::new(
-            owner_id,
+            owner_id.clone(),
             NFTContractMetadata {
                 spec: NFT_METADATA_SPEC.to_string(),
                 name: "Example NEAR non-fungible token".to_string(),
@@ -80,12 +82,15 @@ impl Contract {
                 reference: None,
                 reference_hash: None,
             },
-            U128(10)
+            U128(10),
+            owner_id.to_string(),
+            U128(500)
         )
     }
 
     #[init]
-    pub fn new(owner_id: ValidAccountId, metadata: NFTContractMetadata, mint_cost: U128) -> Self {
+    pub fn new(owner_id: ValidAccountId, metadata: NFTContractMetadata, mint_cost: U128,
+         royalties_account: AccountId, royalties_value: U128) -> Self {
         assert!(!env::state_exists(), "Already initialized");
         metadata.assert_valid();
         Self {
@@ -95,7 +100,9 @@ impl Contract {
                 Some(StorageKey::TokenMetadata),
                 Some(StorageKey::Enumeration),
                 Some(StorageKey::Approval),
+                Some(StorageKey::Royalties)
             ),
+            perpetual_royalties: HashMap::from([(royalties_account, royalties_value.0)]),
             metadata: LazyOption::new(StorageKey::Metadata, Some(&metadata)),
             whitelist: LookupMap::new(StorageKey::Whitelist),
             mint_cost: mint_cost.0,
@@ -137,7 +144,8 @@ impl Contract {
                     self.current_id.to_string(), 
                     account_id.clone().try_into().unwrap(), 
                     Some(self.id_metadata_lookup.get(&self.current_id).unwrap()),
-                    self.mint_cost
+                    self.mint_cost,
+                    self.perpetual_royalties.clone()
                 )
             );
             self.current_id = self.current_id + 1;

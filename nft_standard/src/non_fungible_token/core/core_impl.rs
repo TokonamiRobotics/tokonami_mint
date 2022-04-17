@@ -72,6 +72,9 @@ pub struct NonFungibleToken {
     // required by approval extension
     pub approvals_by_id: Option<LookupMap<TokenId, HashMap<AccountId, u64>>>,
     pub next_approval_id_by_id: Option<LookupMap<TokenId, u64>>,
+
+    //required by royalty extension
+    pub royalties_by_id: Option<LookupMap<TokenId, HashMap<AccountId, u128>>>
 }
 
 #[derive(BorshStorageKey, BorshSerialize)]
@@ -82,18 +85,20 @@ pub enum StorageKey {
 
 
 impl NonFungibleToken {
-    pub fn new<Q, R, S, T>(
+    pub fn new<Q, R, S, T, U>(
         owner_by_id_prefix: Q,
         owner_id: ValidAccountId,
         token_metadata_prefix: Option<R>,
         enumeration_prefix: Option<S>,
         approval_prefix: Option<T>,
+        royalties_prefix: Option<U>
     ) -> Self
     where
         Q: IntoStorageKey,
         R: IntoStorageKey,
         S: IntoStorageKey,
         T: IntoStorageKey,
+        U: IntoStorageKey,
     {
         let (approvals_by_id, next_approval_id_by_id) = if let Some(prefix) = approval_prefix {
             let prefix: Vec<u8> = prefix.into_storage_key();
@@ -113,6 +118,7 @@ impl NonFungibleToken {
             tokens_per_owner: enumeration_prefix.map(LookupMap::new),
             approvals_by_id,
             next_approval_id_by_id,
+            royalties_by_id: royalties_prefix.map(LookupMap::new),
         };
         this.measure_min_token_storage_cost();
         this
@@ -308,7 +314,8 @@ impl NonFungibleToken {
         token_id: TokenId,
         token_owner_id: ValidAccountId,
         token_metadata: Option<TokenMetadata>,
-        mint_cost: u128
+        mint_cost: u128,
+        perpetual_royalties: HashMap<AccountId, u128>,
     ) -> Token {
         if self.token_metadata_by_id.is_some() && token_metadata.is_none() {
             env::panic(b"Must provide metadata");
@@ -344,9 +351,22 @@ impl NonFungibleToken {
         let approved_account_ids =
             if self.approvals_by_id.is_some() { Some(HashMap::new()) } else { None };
 
+        // Royalty Management extension
+        let mut royalty = HashMap::<AccountId, u128>::new();
+        if let Some(royalties_by_id) = &mut self.royalties_by_id {
+            //make sure that the length of the perpetual royalties is below 7 since we won't have enough GAS to pay out that many people
+            assert!(perpetual_royalties.len() < 7, "Cannot add more than 6 perpetual royalty amounts");
+
+            //iterate through the perpetual royalties and insert the account and amount in the royalty map
+            for (account, amount) in perpetual_royalties {
+                royalty.insert(account, amount);
+            }
+            royalties_by_id.insert(&token_id, &royalty);
+        }
+
         // Return any extra attached deposit not used for storage
         NftMint { owner_id: &token_owner_id.to_string(), token_ids: &[&token_id], memo: None }.emit();
-        Token { token_id, owner_id, metadata: token_metadata, approved_account_ids }
+        Token { token_id, owner_id, metadata: token_metadata, approved_account_ids, royalty: Some(royalty) }
     }
 
 }
@@ -404,7 +424,10 @@ impl NonFungibleTokenCore for NonFungibleToken {
         let approved_account_ids = self
             .approvals_by_id
             .and_then(|by_id| by_id.get(&token_id).or_else(|| Some(HashMap::new())));
-        Some(Token { token_id, owner_id, metadata, approved_account_ids })
+        let royalty = self
+            .royalties_by_id
+            .and_then(|by_id| by_id.get(&token_id).or_else(|| Some(HashMap::new())));
+        Some(Token { token_id, owner_id, metadata, approved_account_ids, royalty: royalty })
     }
 
     fn mint(
@@ -413,7 +436,7 @@ impl NonFungibleTokenCore for NonFungibleToken {
         token_owner_id: ValidAccountId,
         token_metadata: Option<TokenMetadata>,
     ) -> Token {
-        Token { token_id, owner_id: token_owner_id.to_string(), metadata: token_metadata, approved_account_ids: {None} }
+        Token { token_id, owner_id: token_owner_id.to_string(), metadata: token_metadata, approved_account_ids: {None}, royalty: Some(HashMap::new()) }
     }
 
     
