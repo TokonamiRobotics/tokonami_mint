@@ -8,7 +8,7 @@ import {
     mintNfts,
     addToWhiteList,
     addMetadata,
-    retriveFunds,
+    retrieveFunds,
     unlockSales,
     updateMintingCost
 } from "./../deploy/call_contract_function.js"
@@ -168,7 +168,7 @@ yargs(hideBin(process.argv))
         }
     )
     .command(
-        'retriveFunds <ownerAccount> <contractAccount> <quantity>', 'withdraw balance from contract',
+        'retrieveFunds <ownerAccount> <contractAccount> <quantity>', 'withdraw balance from contract',
         (yargs) => {
             yargs.positional(
                 'ownerAccount', {
@@ -190,7 +190,7 @@ yargs(hideBin(process.argv))
                 });
         },
         (argv) => {
-            retriveFunds(argv.ownerAccount, argv.contractAccount, argv.quantity);
+            retrieveFunds(argv.ownerAccount, argv.contractAccount, argv.quantity);
         }
     )
     .command(

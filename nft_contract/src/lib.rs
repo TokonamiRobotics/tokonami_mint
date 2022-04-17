@@ -135,8 +135,8 @@ impl Contract {
             return_vector.push( 
                 self.tokens.internal_mint( 
                     self.current_id.to_string(), 
-                    account_id.clone().try_into().expect("a"), 
-                    Some(self.id_metadata_lookup.get(&self.current_id).expect("b")),
+                    account_id.clone().try_into().unwrap(), 
+                    Some(self.id_metadata_lookup.get(&self.current_id).unwrap()),
                     self.mint_cost
                 )
             );

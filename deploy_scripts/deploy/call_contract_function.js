@@ -1,5 +1,6 @@
 import nearAPI from "near-api-js";
 import loginNear from "./_login.js";
+import fs from "fs";
 
 import buildContractObject from "./_contract_object.js";
 import { BN } from "bn.js";
@@ -10,10 +11,10 @@ async function initializeContract(ownerAccount, contractAccount, mint_cost) {
     let namedArgs = {
         owner_id: ownerAccount,
         metadata: {
-            spec: "nft-2.0.0",
+            spec: "nft-1.0.0",
             name: "Tokonami",
             symbol: "TOKO",
-            icon: Some(DATA_IMAGE_SVG_NEAR_ICON.to_string()),
+            icon: "htt://abc.com",
             base_uri: "https://gateway.ipfs.io/",
             reference: null,
             reference_hash: null
@@ -35,12 +36,11 @@ async function initializeContract(ownerAccount, contractAccount, mint_cost) {
 async function mintNfts(ownerAccount, contractAccount, token_quantity, mint_cost) {
     const contract = await buildContractObject(ownerAccount, contractAccount);
 
-    const token_price = nearAPI.utils.format.parseNearAmount(mint_cost);
+    const mintCostPlusStorage = (parseInt(mint_cost) * 1.1).toString();
+    const token_price = nearAPI.utils.format.parseNearAmount(mintCostPlusStorage);
     let bnTokenPrice = new BN(token_price);
     let bnTokenQuantity = new BN(token_quantity);
-    let bnAdjustment = new BN("1.1");
-    let totalTokenPrice = bnTokenPrice.mul(bnTokenQuantity).mul(bnAdjustment);
-
+    let totalTokenPrice = bnTokenPrice.mul(bnTokenQuantity);
 
     const result = await contract.nft_mint({
             quantity: token_quantity.toString()
@@ -58,9 +58,9 @@ async function addToWhiteList(ownerAccount, contractAccount, listBeneficiaries, 
     const contract = await buildContractObject(ownerAccount, contractAccount);
 
     let whiteListMap = {};
-
-    for (let item of listBeneficiaries) {
-        whiteListMap[item] = allowance
+    for (let item of JSON.parse(listBeneficiaries)) {
+        console.log(item);
+        whiteListMap[item] = parseInt(allowance)
     }
 
 
@@ -84,17 +84,21 @@ async function addMetadata(ownerAccount, contractAccount) {
     let counter = 1;
 
     while (counter <= totalCount) {
-        whiteListMap[counter.toString()] = fs.readFileSync(`../../json_generation/chain_json/${counter}.json`);
+        metaDataMap[counter.toString()] = JSON.parse(fs.readFileSync(`../json_generation/chain_json/${counter}.json`, "utf-8"));
         counter += 1;
     }
+
+    console.log(metaDataMap);
 
     const chunkSize = 100;
     let currentStart = 1;
     let iterMap;
+    let i = currentStart;
     while (currentStart <= totalCount) {
         iterMap = {};
         while (i <= currentStart + chunkSize) {
             iterMap[i.toString()] = metaDataMap[i.toString()]
+            i += 1;
         }
         let result = await contract.add_metadatalookup({
                 metadata_map: iterMap
@@ -103,15 +107,16 @@ async function addMetadata(ownerAccount, contractAccount) {
             "1"
         );
         console.log(`start at ${currentStart} to ${currentStart+chunkSize} completed`);
+        currentStart += chunkSize;
     }
 }
 
 //update_contract
-async function retriveFunds(ownerAccount, contractAccount, quantity) {
+async function retrieveFunds(ownerAccount, contractAccount, quantity) {
     const contract = await buildContractObject(ownerAccount, contractAccount);
 
     const result = await contract.retrieve_funds({
-            quantity: quantity.toString()
+            quantity: nearAPI.utils.format.parseNearAmount(quantity.toString())
         },
         "300000000000000",
         "1"
@@ -125,8 +130,8 @@ async function retriveFunds(ownerAccount, contractAccount, quantity) {
 async function unlockSales(ownerAccount, contractAccount, status) {
     const contract = await buildContractObject(ownerAccount, contractAccount);
 
-    const result = await contract.unlock_sale({
-            sales_lock: status
+    const result = await contract.unlock_sales({
+            sales_lock: (status === "true")
         },
         "300000000000000",
         "1"
@@ -141,7 +146,7 @@ async function updateMintingCost(ownerAccount, contractAccount, newCost) {
     const contract = await buildContractObject(ownerAccount, contractAccount);
 
     const result = await contract.change_mint_cost({
-            mint_cost: newCost.toString()
+            mint_cost: nearAPI.utils.format.parseNearAmount(newCost.toString())
         },
         "300000000000000",
         "1"
@@ -156,7 +161,7 @@ export {
     mintNfts,
     addToWhiteList,
     addMetadata,
-    retriveFunds,
+    retrieveFunds,
     unlockSales,
     updateMintingCost
 };
