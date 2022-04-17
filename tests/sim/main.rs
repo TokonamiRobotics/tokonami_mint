@@ -4,6 +4,7 @@ pub use near_sdk::serde_json::{json, value::Value};
 pub use near_sdk_sim::{call, view, deploy, init_simulator, to_yocto, UserAccount, 
     ContractAccount, DEFAULT_GAS, ViewResult, ExecutionResult};
 pub use near_sdk::AccountId;
+pub use near_sdk_sim::transaction::ExecutionStatus;
 
 near_sdk_sim::lazy_static_include::lazy_static_include_bytes! {
     NFT_BYTES => "./target/wasm32-unknown-unknown/release/nft_contract.wasm"
@@ -18,6 +19,13 @@ const DATA_IMAGE_SVG_NEAR_ICON: &str = "data:image/svg+xml,%3Csvg xmlns='http://
 
 const GAS_ATTACHMENT: u64 = 300_000_000_000_000;
 const ONE_NEAR: u128 = 1_000_000_000_000_000_000_000_000;
+
+pub fn should_fail(r: ExecutionResult) {
+    match r.status() {
+        ExecutionStatus::Failure(_) => {}
+        _ => panic!("Should fail"),
+    }
+}
 
 //add tests for unauthorized stuff
 
@@ -73,11 +81,11 @@ fn simulate_full_flow() {
         0
     ).assert_success();
     
-    let mut metadata_hashmap = HashMap::new();
+    let mut metadata_hashmap = HashMap::<String, TokenMetadata>::new();
 
     let mut i: u128 = 1;
-    while i < 1000 {
-        metadata_hashmap.insert(i, TokenMetadata {
+    while i < 100 {
+        metadata_hashmap.insert(i.to_string(), TokenMetadata {
             title: Some("Olympus Mons".into()),
             description: Some("The tallest mountain in the charted solar system".into()),
             media: None,
@@ -100,21 +108,11 @@ fn simulate_full_flow() {
         nft_account.account_id(), 
         "add_metadatalookup",
         &json!({
-            "metadata_map": nft_contract_metadata
+            "metadata_map": metadata_hashmap
         }).to_string().into_bytes(),
         GAS_ATTACHMENT, 
         1
-    );
-
-    dev_account.call(
-        nft_account.account_id(), 
-        "add_metadatalookup",
-        &json!({
-            "metadata_map": nft_contract_metadata
-        }).to_string().into_bytes(),
-        GAS_ATTACHMENT, 
-        1
-    );
+    ).assert_success();
 
     let whitelist_hashmap = HashMap::from([(&consumer1.account_id, 2), (&consumer2.account_id, 4)]);
 
@@ -126,30 +124,98 @@ fn simulate_full_flow() {
         }).to_string().into_bytes(),
         GAS_ATTACHMENT, 
         1
-    );
+    ).assert_success();
+
+    dev_account.call(
+        nft_account.account_id(), 
+        "unlock_sales",
+        &json!({
+            "sales_lock": false
+        }).to_string().into_bytes(),
+        GAS_ATTACHMENT, 
+        1
+    ).assert_success();
 
     //mint correct number of nfts with consumer 1
     consumer1.call(
         nft_account.account_id(), 
         "nft_mint",
         &json!({
-            "quantity": U128(1)
+            "quantity": U128(2)
+        }).to_string().into_bytes(),
+        GAS_ATTACHMENT, 
+        2010660000000000000000000
+    ).assert_success();
+
+    let minted: String = consumer1.call(
+        nft_account.account_id(), 
+        "nft_supply_for_owner",
+        &json!({
+            "account_id": consumer1.account_id()
         }).to_string().into_bytes(),
         GAS_ATTACHMENT, 
         1
+    ).unwrap_json();
+
+    assert_eq!(minted, "2".to_string());
+
+    should_fail(
+        consumer2.call(
+            nft_account.account_id(), 
+            "nft_mint",
+            &json!({
+                "quantity": U128(5)
+            }).to_string().into_bytes(),
+            GAS_ATTACHMENT, 
+            1006020000000000000000000
+        )
     );
-
-    //test if minted or not
     
-
+    should_fail(
+        consumer3.call(
+            nft_account.account_id(), 
+            "nft_mint",
+            &json!({
+                "quantity": U128(1)
+            }).to_string().into_bytes(),
+            GAS_ATTACHMENT, 
+            1006020000000000000000000
+        )
+    );
+    
+    //test burn feature
     consumer1.call(
         nft_account.account_id(), 
-        "internal_mint",
+        "nft_burn",
         &json!({
-            "quantity": U128(1)
+            "sender_id": consumer1.account_id(),
+            "token_id": "1"
         }).to_string().into_bytes(),
         GAS_ATTACHMENT, 
         1
-    );
+    ).assert_success();
+
+    let minted_1: String = consumer1.call(
+        nft_account.account_id(), 
+        "nft_supply_for_owner",
+        &json!({
+            "account_id": consumer1.account_id()
+        }).to_string().into_bytes(),
+        GAS_ATTACHMENT, 
+        1
+    ).unwrap_json();
+
+    let minted_system: String = consumer1.call(
+        nft_account.account_id(), 
+        "nft_supply_for_owner",
+        &json!({
+            "account_id": consumer1.account_id()
+        }).to_string().into_bytes(),
+        GAS_ATTACHMENT, 
+        1
+    ).unwrap_json();
+
+    assert_eq!(minted_1, "1".to_string());
+    assert_eq!(minted_system, "1".to_string());
 
 }
