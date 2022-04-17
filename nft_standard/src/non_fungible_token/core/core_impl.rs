@@ -1,6 +1,7 @@
 use super::resolver::NonFungibleTokenResolver;
 use crate::non_fungible_token::core::NonFungibleTokenCore;
 use crate::non_fungible_token::metadata::TokenMetadata;
+use crate::non_fungible_token::events::{NftMint, NftTransfer};
 use crate::non_fungible_token::token::{Token, TokenId};
 use crate::non_fungible_token::utils::{
     hash_account_id, refund_approved_account_ids, refund_deposit_mint, refund_deposit
@@ -78,6 +79,7 @@ pub enum StorageKey {
     TokensPerOwner { account_hash: Vec<u8> },
     TokenPerOwnerInner { account_id_hash: CryptoHash },
 }
+
 
 impl NonFungibleToken {
     pub fn new<Q, R, S, T>(
@@ -224,6 +226,24 @@ impl NonFungibleToken {
             receiver_tokens.insert(&token_id);
             tokens_per_owner.insert(&to, &receiver_tokens);
         }
+        NonFungibleToken::emit_transfer(&from, to, token_id, Some(&env::predecessor_account_id()), Some("a".to_string()));
+    }
+
+    fn emit_transfer(
+        owner_id: &AccountId,
+        receiver_id: &AccountId,
+        token_id: &str,
+        sender_id: Option<&AccountId>,
+        memo: Option<String>,
+    ) {
+        NftTransfer {
+            old_owner_id: owner_id,
+            new_owner_id: receiver_id,
+            token_ids: &[token_id],
+            authorized_id: sender_id.filter(|sender_id| *sender_id == owner_id),
+            memo: memo.as_deref(),
+        }
+        .emit();
     }
 
     /// Transfer from current owner to receiver_id, checking that sender is allowed to transfer.
@@ -297,7 +317,7 @@ impl NonFungibleToken {
             env::panic(b"token_id must be unique");
         }
 
-        let owner_id: AccountId = token_owner_id.into();
+        let owner_id: AccountId = token_owner_id.clone().into();
 
         // Core behavior: every token must have an owner
         self.owner_by_id.insert(&token_id, &owner_id);
@@ -325,6 +345,7 @@ impl NonFungibleToken {
             if self.approvals_by_id.is_some() { Some(HashMap::new()) } else { None };
 
         // Return any extra attached deposit not used for storage
+        NftMint { owner_id: &token_owner_id.to_string(), token_ids: &[&token_id], memo: None }.emit();
         Token { token_id, owner_id, metadata: token_metadata, approved_account_ids }
     }
 
@@ -392,47 +413,7 @@ impl NonFungibleTokenCore for NonFungibleToken {
         token_owner_id: ValidAccountId,
         token_metadata: Option<TokenMetadata>,
     ) -> Token {
-        panic!("This function is not meant to be called");
-        assert_eq!(env::predecessor_account_id(), self.owner_id, "Unauthorized");
-        let initial_storage_usage = env::storage_usage();
-        if self.token_metadata_by_id.is_some() && token_metadata.is_none() {
-            env::panic(b"Must provide metadata");
-        }
-        if self.owner_by_id.get(&token_id).is_some() {
-            env::panic(b"token_id must be unique");
-        }
-
-        let owner_id: AccountId = token_owner_id.into();
-
-        // Core behavior: every token must have an owner
-        self.owner_by_id.insert(&token_id, &owner_id);
-
-        // Metadata extension: Save metadata, keep variable around to return later.
-        // Note that check above already panicked if metadata extension in use but no metadata
-        // provided to call.
-        self.token_metadata_by_id
-            .as_mut()
-            .and_then(|by_id| by_id.insert(&token_id, &token_metadata.as_ref().unwrap()));
-
-        // Enumeration extension: Record tokens_per_owner for use with enumeration view methods.
-        if let Some(tokens_per_owner) = &mut self.tokens_per_owner {
-            let mut token_ids = tokens_per_owner.get(&owner_id).unwrap_or_else(|| {
-                UnorderedSet::new(StorageKey::TokensPerOwner {
-                    account_hash: env::sha256(owner_id.as_bytes()),
-                })
-            });
-            token_ids.insert(&token_id);
-            tokens_per_owner.insert(&owner_id, &token_ids);
-        }
-
-        // Approval Management extension: return empty HashMap as part of Token
-        let approved_account_ids =
-            if self.approvals_by_id.is_some() { Some(HashMap::new()) } else { None };
-
-        // Return any extra attached deposit not used for storage
-        refund_deposit(env::storage_usage() - initial_storage_usage);
-
-        Token { token_id, owner_id, metadata: token_metadata, approved_account_ids }
+        Token { token_id, owner_id: token_owner_id.to_string(), metadata: token_metadata, approved_account_ids: {None} }
     }
 
     
@@ -491,13 +472,13 @@ impl NonFungibleTokenResolver for NonFungibleToken {
         // 2. reset approvals to what previous owner had set before call to nft_transfer_call
         if let Some(by_id) = &mut self.approvals_by_id {
             if let Some(receiver_approvals) = by_id.get(&token_id) {
-                refund_approved_account_ids(receiver_id, &receiver_approvals);
+                refund_approved_account_ids(receiver_id.clone(), &receiver_approvals);
             }
             if let Some(previous_owner_approvals) = approved_account_ids {
                 by_id.insert(&token_id, &previous_owner_approvals);
             }
         }
-
+        NonFungibleToken::emit_transfer(&receiver_id, &previous_owner_id, &token_id, None, None);
         false
     }
 }

@@ -11,13 +11,20 @@ async function initializeContract(ownerAccount, contractAccount, mint_cost) {
     let namedArgs = {
         owner_id: ownerAccount,
         metadata: {
+            // spec: "nft-1.0.0",
+            // name: "Tokonami",
+            // symbol: "TOKO",
+            // icon: "https://abc.com",
+            // base_uri: "https://gateway.ipfs.io/",
+            // reference: null,
+            // reference_hash: null
             spec: "nft-1.0.0",
-            name: "Tokonami",
-            symbol: "TOKO",
-            icon: "htt://abc.com",
-            base_uri: "https://gateway.ipfs.io/",
+            name: "Example NEAR non-fungible token",
+            symbol: "EXAMPLE",
+            icon: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 288 288'%3E%3Cg id='l' data-name='l'%3E%3Cpath d='M187.58,79.81l-30.1,44.69a3.2,3.2,0,0,0,4.75,4.2L191.86,103a1.2,1.2,0,0,1,2,.91v80.46a1.2,1.2,0,0,1-2.12.77L102.18,77.93A15.35,15.35,0,0,0,90.47,72.5H87.34A15.34,15.34,0,0,0,72,87.84V201.16A15.34,15.34,0,0,0,87.34,216.5h0a15.35,15.35,0,0,0,13.08-7.31l30.1-44.69a3.2,3.2,0,0,0-4.75-4.2L96.14,186a1.2,1.2,0,0,1-2-.91V104.61a1.2,1.2,0,0,1,2.12-.77l89.55,107.23a15.35,15.35,0,0,0,11.71,5.43h3.13A15.34,15.34,0,0,0,216,201.16V87.84A15.34,15.34,0,0,0,200.66,72.5h0A15.35,15.35,0,0,0,187.58,79.81Z'/%3E%3C/g%3E%3C/svg%3E",
+            base_uri: null,
             reference: null,
-            reference_hash: null
+            reference_hash: null,
         },
         mint_cost: nearAPI.utils.format.parseNearAmount(mint_cost)
 
@@ -48,6 +55,29 @@ async function mintNfts(ownerAccount, contractAccount, token_quantity, mint_cost
         "300000000000000",
         totalTokenPrice.toString(10)
     );
+
+    // const result = await contract.mint({
+    //         token_id: "1",
+    //         token_owner_id: "toko_buyer1.testnet",
+    //         token_metadata: {
+    //             title: 'Tokonami #1',
+    //             description: 'Tokonami to the Moon',
+    //             media: 'ipfs://QmehZFCwtyubKgPBRpiJ4BHURMkgWFuU2UUg4nw66bqvpb/1.png',
+    //             media_hash: '1d913f2ee339a761a17ca95d6aa957a19861197a',
+    //             copies: 1,
+    //             issued_at: null,
+    //             expires_at: null,
+    //             starts_at: null,
+    //             updated_at: null,
+    //             extra: null,
+    //             reference: 'ipfs://QmbLfzD6rix9bQLiSSajhL7JpTSHzc5c3M8wrWBkjqTMBG/1.json',
+    //             reference_hash: 'd7f0e56ab1a117937d39fad3f72b99cc831c73f819685ee0a8c6d2e4628fdfcf',
+    //             nft_type: '2',
+    //             nft_rarity: 'something here'
+    //         }
+    //     },
+    //     "300000000000000",
+    // );
 
     console.log(result);
     return result;

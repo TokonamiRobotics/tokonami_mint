@@ -13,7 +13,7 @@ for (let item of allData) {
     currentObj = {
         title: item.name,
         description: item.description,
-        media: item.image.replace("NewUriToReplace", "QmehZFCwtyubKgPBRpiJ4BHURMkgWFuU2UUg4nw66bqvpb"),
+        media: item.image.replace("NewUriToReplace", "QmehZFCwtyubKgPBRpiJ4BHURMkgWFuU2UUg4nw66bqvpb").replace("ipfs://", "https://gateway.pinata.cloud/ipfs/"),
         media_hash: item.dna,
         copies: 1,
         issued_at: null,

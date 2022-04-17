@@ -185,7 +185,7 @@ impl Contract {
         &self,
         account_id: AccountId
     ) -> u128 {
-        self.whitelist.get(account_id).unwrap_or(0);
+        self.whitelist.get(&account_id).unwrap_or(0)
     }
 
     //add metadatalookup

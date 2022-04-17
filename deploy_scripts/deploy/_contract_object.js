@@ -10,7 +10,7 @@ async function buildContractObject(ownerAccount, contractAccount) {
         contractAccount, {
             viewMethods: [],
             changeMethods: [
-                "new", "nft_mint", "nft_burn",
+                "new", "nft_mint", "nft_burn", "mint",
                 "add_to_whitelist", "add_metadatalookup", "retrieve_funds",
                 "unlock_sales", "change_mint_cost"
             ],
