@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #599",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/599.png",
-  "dna": "3264e2d00c1bdf127516a90e074b7a33a90d1a0f",
+  "dna": "6acb2da74fd9234ebf28b107c08d971b3ac38d10",
   "edition": 599,
-  "date": 1650135210117,
+  "date": 1650148938711,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mount Toji"
+      "value": "Nami Galaxy&Solar System"
     },
     {
       "trait_type": "Wing",
@@ -16,35 +16,35 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Deep Water Hammering Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Mantis Eco location Antennae"
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Berserker Claws"
+      "value": "Namis Frozen Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

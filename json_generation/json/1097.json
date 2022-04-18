@@ -1,30 +1,30 @@
 {
   "name": "Tokonami #1097",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1097.png",
-  "dna": "f13805e463cfda1cc3b260fd1a24afe320cb4df6",
+  "dna": "960e8d1b8686e167c642343953f9657a771eee97",
   "edition": 1097,
-  "date": 1650135301064,
+  "date": 1650149031462,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Underwater Base Exit"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Venoumous Rhino Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Detachable Bullmerang Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Venomous Rhino Soulder Plate"
     },
     {
       "trait_type": "Weapon",

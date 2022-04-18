@@ -1,46 +1,46 @@
 {
   "name": "Tokonami #943",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/943.png",
-  "dna": "3cf8ba34b2bec73cf785f76c3a901c8dd2c76262",
+  "dna": "7956a0452dede103a622682a6d16216e7c6923a3",
   "edition": 943,
-  "date": 1650135273406,
+  "date": 1650149001633,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "Nitro Charged Thrusters"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Nami Forged UltraGold Knight Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Bullish Bear Chimeric Head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Pain Coated Horns Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Amphibian Gill integrated Visor"
+      "value": "Saphire Multichromic High Altitude Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Weapon",

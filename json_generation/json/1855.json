@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #1855",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1855.png",
-  "dna": "7b63cb301419da3411a2e72a44bde61ea67522d7",
+  "dna": "5ff747fd8d070ac4fbc64164987789b1e2f3980b",
   "edition": 1855,
-  "date": 1650135439520,
+  "date": 1650149173260,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Underwater Base Exit"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,15 +24,15 @@
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Tokurai Rank Helmet"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Near vission Championship Glasses"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

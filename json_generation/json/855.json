@@ -1,38 +1,38 @@
 {
   "name": "Tokonami #855",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/855.png",
-  "dna": "5a9f3d430f3d1678feacb7281ca5ec1882815665",
+  "dna": "0bd7d5fc7d6b42d8beddd44313473e876a3a66b6",
   "edition": 855,
-  "date": 1650135256850,
+  "date": 1650148985706,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sacred Nami Meditation Ice Mountain"
+      "value": "Mount Toji"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Deep Water Hammering Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Rapid Gliding Ruby Fin"
     },
     {
       "trait_type": "Visor",
-      "value": "Amphibian Gill integrated Visor"
+      "value": "Deep Ocean Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

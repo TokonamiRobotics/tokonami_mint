@@ -1,38 +1,38 @@
 {
   "name": "Tokonami #706",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/706.png",
-  "dna": "6f872313ada262a77e94dc795944f5d80b8320a8",
+  "dna": "e4bf5f079e43199492f2416938b6b77656897e5e",
   "edition": 706,
-  "date": 1650135229336,
+  "date": 1650148957780,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Kryptic Tokonami Base"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Venoumous Rhino Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Purple Haze Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Reinforced Jaw Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Purple Haze Visor"
+      "value": "Deep Ocean Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Venomous Rhino Soulder Plate"
     },
     {
       "trait_type": "Weapon",

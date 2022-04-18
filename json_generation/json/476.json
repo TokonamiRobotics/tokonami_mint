@@ -1,34 +1,34 @@
 {
   "name": "Tokonami #476",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/476.png",
-  "dna": "cb623b80cfeb8e0193efb57f950a17650b1c47a8",
+  "dna": "1ab0183d6e5b280f568ab4ab3f66b60c64ad5e6b",
   "edition": 476,
-  "date": 1650135188624,
+  "date": 1650148917267,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Forbidden Nuclear Reactor Outskirts"
+      "value": "Nami Galaxy&Solar System"
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "Teseract infused Hyper Engine"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Reinforced Jaw Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
@@ -36,15 +36,15 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",
-      "value": "Golden Shadow Scimitar"
+      "value": "Reverbering Pistol"
     }
   ],
   "compiler": "HashLips Art Engine"

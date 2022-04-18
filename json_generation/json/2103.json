@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #2103",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2103.png",
-  "dna": "35ab0ca40f7bc21bf7b73ed9bebcdb4980dabc23",
+  "dna": "77eef9301b695de640033e359156a30165e71588",
   "edition": 2103,
-  "date": 1650135486790,
+  "date": 1650149220585,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Sacred Nami Meditation Ice Mountain"
     },
     {
       "trait_type": "Wing",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Lightweight blasting Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Rapid Gliding Ruby Fin"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Saphire Multichromic High Altitude Visor"
+      "value": "Emerald Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Golden Shadow Scimitar"
+      "value": "Namis Frozen Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,38 +1,38 @@
 {
   "name": "Tokonami #1141",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1141.png",
-  "dna": "bb546546d653eeeaa4023fc8d7acc9f5286863b1",
+  "dna": "defe6c0565870857099babda0cceb1bf1523395d",
   "edition": 1141,
-  "date": 1650135310187,
+  "date": 1650149039723,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Crimson Desert Lands"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Bullish Bear Chimeric Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Mantis Eco location Antennae"
+      "value": "Tokurai Rank Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Near vission Championship Glasses"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #1290",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1290.png",
-  "dna": "765a0a722da13f86ea4674d8bc0da49b8050002b",
+  "dna": "f995f4fe1870347ff29084e08c9364534fb86732",
   "edition": 1290,
-  "date": 1650135337427,
+  "date": 1650149066617,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Sacred Nami Meditation Ice Mountain"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
@@ -20,11 +20,11 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Deep Water Hammering Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,11 +32,11 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",

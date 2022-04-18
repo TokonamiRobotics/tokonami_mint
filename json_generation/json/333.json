@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #333",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/333.png",
-  "dna": "33cdb93df53a9afdefd94ba77b80a72ad6aa2f85",
+  "dna": "29bbd50e5e45c63cadb5fae906146137279670d7",
   "edition": 333,
-  "date": 1650135164135,
+  "date": 1650148891514,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Sakunomi First Moon"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,19 +32,19 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Saphire Multichromic High Altitude Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "Reverbering Pistol"
     }
   ],
   "compiler": "HashLips Art Engine"

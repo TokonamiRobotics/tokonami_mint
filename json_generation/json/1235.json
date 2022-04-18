@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #1235",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1235.png",
-  "dna": "b9bed80633eef72000bfd3a64891dc8a8985aafc",
+  "dna": "9568777c48b53f0b764a1c0408f6a2fe09cbdfa9",
   "edition": 1235,
-  "date": 1650135327438,
+  "date": 1650149056287,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Forbidden Nuclear Reactor Outskirts"
+      "value": "Sakunomi First Moon"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -32,11 +32,11 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Amphibian Gill integrated Visor"
+      "value": "Emerald Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #2120",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2120.png",
-  "dna": "a6188d1669a9d122544c469fbb5b2573d577dc28",
+  "dna": "7657a73edc725d47ee2ea9a7042a225f7c125195",
   "edition": 2120,
-  "date": 1650135489777,
+  "date": 1650149223915,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,39 +12,39 @@
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "High Manouverability Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Tokurai Shielded Shoulder Plate"
+      "value": "Venoumous Rhino Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Deep Water Hammering Head"
+      "value": "Tokurai Heavy mounted Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Amphibian Gill integrated Visor"
+      "value": "Long Distance Rust Goggles"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Tokurai Shielded Shoulder Plate"
+      "value": "Venomous Rhino Soulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Namis Frozen Blade"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

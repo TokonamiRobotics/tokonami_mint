@@ -1,38 +1,38 @@
 {
   "name": "Tokonami #1628",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1628.png",
-  "dna": "b40e6fb71b44e501278be8b3777d2e4036ce2b66",
+  "dna": "a5aae8dea71d97cf582c3b28c3df55565af0f00d",
   "edition": 1628,
-  "date": 1650135398494,
+  "date": 1650149130669,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Venoumous Rhino Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Tokurai Deathly Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Mantis Eco location Antennae"
+      "value": "Heavy Charging Headbutter"
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Near vission Championship Glasses"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Venomous Rhino Soulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

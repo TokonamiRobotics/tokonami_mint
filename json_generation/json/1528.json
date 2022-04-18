@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #1528",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1528.png",
-  "dna": "ca8deb6b866b4d25503deda158a6d7f947fcf41e",
+  "dna": "e478c91b4bae77c30cfd10cca46cf1572841a47d",
   "edition": 1528,
-  "date": 1650135380746,
+  "date": 1650149112767,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Forbidden Nuclear Reactor Outskirts"
     },
     {
       "trait_type": "Wing",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
-      "value": "Tokurai Deathly Chest Plate"
+      "value": "Nami Forged UltraGold Knight Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Tokurai Heavy mounted Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Heavy Charging Headbutter"
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",
-      "value": "Berserker Claws"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

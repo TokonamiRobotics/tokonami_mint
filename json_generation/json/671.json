@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #671",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/671.png",
-  "dna": "f2802f250a761f3845e81332ae446182f720e794",
+  "dna": "e65e35772d0a409735d92a4c99ae0d7d46bf75f1",
   "edition": 671,
-  "date": 1650135223091,
+  "date": 1650148951522,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Entrance"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "Nitro Charged Thrusters"
+      "value": "Teseract infused Hyper Engine"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Tokurai Rank Helmet"
+      "value": "Rapid Gliding Ruby Fin"
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Amphibian Gill integrated Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "Berserker Claws"
     }
   ],
   "compiler": "HashLips Art Engine"

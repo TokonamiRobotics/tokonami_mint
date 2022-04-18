@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #608",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/608.png",
-  "dna": "9622b438517a18b06a59b60692eb6bcf6517b775",
+  "dna": "9dcf062348c56f5155c066b90cf3fb9d9d84b1a2",
   "edition": 608,
-  "date": 1650135211735,
+  "date": 1650148940271,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Forbidden Nuclear Reactor Outskirts"
+      "value": "Underwater Base Exit"
     },
     {
       "trait_type": "Wing",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Tokurai Shielded Shoulder Plate"
+      "value": "Amber Laser Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Sharding Emerald Blaster Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Haze Generator Compact Helmet"
+      "value": "Heavy Charging Headbutter"
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Heat Seeking Locator Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Tokurai Shielded Shoulder Plate"
+      "value": "Amber Laser Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Golden Shadow Scimitar"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

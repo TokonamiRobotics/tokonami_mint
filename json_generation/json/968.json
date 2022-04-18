@@ -1,46 +1,46 @@
 {
   "name": "Tokonami #968",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/968.png",
-  "dna": "b493d4ee82f1ebce41be616bbf86d1eef9fe0fc2",
+  "dna": "0e9737cf89fea7f752b80da959864970b2d3da75",
   "edition": 968,
-  "date": 1650135277489,
+  "date": 1650149006654,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple District Entrance"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
-      "value": "Detachable Bullmerang Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Reinforced Jaw Head"
+      "value": "Tokurai Heavy mounted Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Saphire Multichromic High Altitude Visor"
+      "value": "Deep Ocean Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",

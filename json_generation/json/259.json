@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #259",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/259.png",
-  "dna": "16aaafa531be43746872fbbd205342cc2218e0a7",
+  "dna": "f14deb4be73319f673a75eab15e778570081e2c9",
   "edition": 259,
-  "date": 1650135150217,
+  "date": 1650148879144,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Entrance"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Purple Haze Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Bullish Bear Chimeric Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Near vission Championship Glasses"
+      "value": "Heat Seeking Locator Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Golden Shadow Scimitar"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

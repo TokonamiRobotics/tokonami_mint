@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #1704",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1704.png",
-  "dna": "8647b1f9f156b60f50f387d9ed1b9806733b90da",
+  "dna": "1a7b337cf950828d8701f18848dcc53edcf83486",
   "edition": 1704,
-  "date": 1650135412192,
+  "date": 1650149144436,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -28,23 +28,23 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Pain Coated Horns Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Purple Haze Visor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reverbering Pistol"
     }
   ],
   "compiler": "HashLips Art Engine"

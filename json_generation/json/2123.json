@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #2123",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2123.png",
-  "dna": "c5894dd07ffe3da1d3041b3acb1de2978c1a8710",
+  "dna": "ab143811c17e47ee708bc4bd9bcecf6da44bd113",
   "edition": 2123,
-  "date": 1650135490296,
+  "date": 1650149224458,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Crimson Desert Lands"
+      "value": "Nami Galaxy&Solar System"
     },
     {
       "trait_type": "Wing",
@@ -16,19 +16,19 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Sharding Emerald Blaster Chest Plate"
+      "value": "Purple Haze Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Rapid Gliding Ruby Fin"
     },
     {
       "trait_type": "Visor",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reverbering Pistol"
     }
   ],
   "compiler": "HashLips Art Engine"

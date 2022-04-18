@@ -1,46 +1,46 @@
 {
   "name": "Tokonami #1975",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1975.png",
-  "dna": "aba51b8badad40e18379c8756f3a51eacb246839",
+  "dna": "3adb3a250d0e41623b6d81dfb9df45c50913e24b",
   "edition": 1975,
-  "date": 1650135462327,
+  "date": 1650149195422,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Crimson Desert Lands"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Pain Coated Horns Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Emerald Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Weapon",

@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #980",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/980.png",
-  "dna": "fbcd780633d69bd55544c2915f18ed863b6a737c",
+  "dna": "de53e2ef8e218df5727c48d51f05260f50db7276",
   "edition": 980,
-  "date": 1650135279582,
+  "date": 1650149009009,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "Nami Forged UltraGold Knight armour"
     },
     {
       "trait_type": "Chest",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Tokassistant AR Battle Glasses"
+      "value": "Mantis Far sight Night Vision Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "Nami Forged UltraGold Knight armour"
     },
     {
       "trait_type": "Weapon",
-      "value": "Namis Frozen Blade"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

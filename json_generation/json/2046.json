@@ -1,34 +1,34 @@
 {
   "name": "Tokonami #2046",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2046.png",
-  "dna": "fc71cf1938af44c18a60001ae4a6f7ca4dd88b37",
+  "dna": "e2549c511a99a480b4c2ad301c65a68cab053c29",
   "edition": 2046,
-  "date": 1650135476250,
+  "date": 1650149209271,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Entrance"
+      "value": "Sacred Nami Meditation Ice Mountain"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Deep Water Hammering Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Rapid Gliding Ruby Fin"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

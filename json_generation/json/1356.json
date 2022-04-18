@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #1356",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1356.png",
-  "dna": "3a8dd589f52f3b767d1fb9dc59d879c859729ca1",
+  "dna": "ab499bc93f9e31017c8463dab1bf2a58a5447ebd",
   "edition": 1356,
-  "date": 1650135349097,
+  "date": 1650149079033,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "Nitro Charged Thrusters"
     },
     {
       "trait_type": "Rightarm",
@@ -20,23 +20,23 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Detachable Bullmerang Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Rapid Gliding Ruby Fin"
     },
     {
       "trait_type": "Visor",
-      "value": "Amphibian Gill integrated Visor"
+      "value": "Near vission Championship Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",

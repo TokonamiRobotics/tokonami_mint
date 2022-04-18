@@ -1,38 +1,38 @@
 {
   "name": "Tokonami #878",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/878.png",
-  "dna": "f363d56bc7a096fce9b967e27963fba3e8fcd8ac",
+  "dna": "3f681ad3fb9a75a62c36171c3f05ffed2331731e",
   "edition": 878,
-  "date": 1650135261206,
+  "date": 1650148989822,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Forbidden Nuclear Reactor Outskirts"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "Teseract infused Hyper Engine"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Nami Forged UltraGold Knight Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Bullish Bear Chimeric Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Near vission Championship Glasses"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

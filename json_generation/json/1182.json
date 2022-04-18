@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #1182",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1182.png",
-  "dna": "a0df26c2d70dc03a337b4d3093c0b38e5618e55a",
+  "dna": "1a2d4ba7014d9034c123f9af71a8ba7924e3bf65",
   "edition": 1182,
-  "date": 1650135317738,
+  "date": 1650149046585,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Sakunomi First Moon"
     },
     {
       "trait_type": "Wing",
@@ -16,35 +16,35 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Lightweight blasting Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Tokurai Heavy mounted Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Heavy Charging Headbutter"
     },
     {
       "trait_type": "Visor",
-      "value": "Emerald Visor"
+      "value": "Deep Ocean Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #1818",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1818.png",
-  "dna": "e3cf5f30cc6d96bfd83eb1a3dc0a9faecfc445f8",
+  "dna": "e5233a2c6bf2b3caa6d02dc011d2822a9990f7d0",
   "edition": 1818,
-  "date": 1650135432919,
+  "date": 1650149166123,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
@@ -20,23 +20,23 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Nami Forged UltraGold Knight Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Pain Coated Horns Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Long Distance Rust Goggles"
+      "value": "Mantis Far sight Night Vision Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reverbering Pistol"
     }
   ],
   "compiler": "HashLips Art Engine"

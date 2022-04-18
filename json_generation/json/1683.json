@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #1683",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1683.png",
-  "dna": "101eeb87c8951d444f1b3e9717111bbd23d0b2cd",
+  "dna": "b8ab2fd8e902a1c4b7fb609fb41eaf4add4a608f",
   "edition": 1683,
-  "date": 1650135408373,
+  "date": 1650149140576,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Entrance"
+      "value": "Purple District Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
@@ -28,15 +28,15 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Heat Seeking Locator Visor"
+      "value": "Deep Ocean Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Berserker Claws"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

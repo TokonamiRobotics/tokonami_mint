@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #507",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/507.png",
-  "dna": "930b2e2fc1860b3ecb44b08053c94668b98b29dd",
+  "dna": "3e6b2e8714dc6497687752d23213e540497152be",
   "edition": 507,
-  "date": 1650135194179,
+  "date": 1650148922705,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sacred Nami Meditation Ice Mountain"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
@@ -20,23 +20,23 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Heavy Charging Headbutter"
     },
     {
       "trait_type": "Visor",
-      "value": "Purple Haze Visor"
+      "value": "Saphire Multichromic High Altitude Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

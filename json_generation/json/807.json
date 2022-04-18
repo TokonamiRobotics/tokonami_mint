@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #807",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/807.png",
-  "dna": "be6d7e22f96cda492347c3964aef1e9cb972b486",
+  "dna": "abe73bfeb56010d91d29667aeed278521b1c9e75",
   "edition": 807,
-  "date": 1650135248011,
+  "date": 1650148977133,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Amber Laser Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Sharding Emerald Blaster Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Rapid Gliding Ruby Fin"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Nami Forged UltraGold Knight Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Amber Laser Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Blasting Warhammer"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

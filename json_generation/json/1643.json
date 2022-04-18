@@ -1,30 +1,30 @@
 {
   "name": "Tokonami #1643",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1643.png",
-  "dna": "8a869080a0a07c338a76a98268eb3dcfdba6b461",
+  "dna": "9a817dde2276437fe39986bc9a53c19e8c2727a8",
   "edition": 1643,
-  "date": 1650135401190,
+  "date": 1650149133350,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Nami Galaxy&Solar System"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Nami Forged UltraGold Knight Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Reinforced Jaw Head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,19 +32,19 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Long Distance Rust Goggles"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

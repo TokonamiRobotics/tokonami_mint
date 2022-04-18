@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #1562",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1562.png",
-  "dna": "808a6d2b69eee4ee44bbc24a92a706516369f287",
+  "dna": "8c817c73b76a4c162ae616d442f8e9a954592486",
   "edition": 1562,
-  "date": 1650135386744,
+  "date": 1650149118609,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Tokurai Heavy mounted Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Pain Coated Horns Helmet"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Emerald Visor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

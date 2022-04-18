@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #1391",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1391.png",
-  "dna": "fed2225fb6645c03da40529570a248829f6d95f2",
+  "dna": "89355be99789de778d855a8f45fb2ead8c2be70b",
   "edition": 1391,
-  "date": 1650135355423,
+  "date": 1650149085399,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Crimson Desert Lands"
+      "value": "Underwater Base Exit"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Teseract infused Hyper Engine"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Tokurai Rank Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Tokassistant AR Battle Glasses"
+      "value": "Purple Haze Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Blasting Warhammer"
     }
   ],
   "compiler": "HashLips Art Engine"

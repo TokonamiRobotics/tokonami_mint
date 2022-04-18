@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #622",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/622.png",
-  "dna": "dbe8bed3341a8dd8994f77b3b2f711b21fc1922c",
+  "dna": "d2a2fe350775c07dd2b055a35fba160850c7c8fc",
   "edition": 622,
-  "date": 1650135214286,
+  "date": 1650148942805,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Sacred Nami Meditation Ice Mountain"
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
@@ -20,19 +20,19 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Detachable Bullmerang Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Mantis Eco location Antennae"
+      "value": "Pain Coated Horns Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Purple Haze Visor"
     },
     {
       "trait_type": "Medal",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

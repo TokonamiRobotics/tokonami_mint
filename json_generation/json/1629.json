@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #1629",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1629.png",
-  "dna": "cb0508b60fef2d999a8a315f0e2d98b8a11cfaf0",
+  "dna": "b55a06e0a6f65ee3612bd35be6efdc462e6cdef8",
   "edition": 1629,
-  "date": 1650135398659,
+  "date": 1650149130855,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Forbidden Nuclear Reactor Outskirts"
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Heavy Tungsten Defensive Plate"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Chest",
@@ -24,11 +24,11 @@
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Mantis Eco location Antennae"
+      "value": "Heavy Charging Headbutter"
     },
     {
       "trait_type": "Visor",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Heavy Tungsten Defensive Plate"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Namis Frozen Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #678",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/678.png",
-  "dna": "c275a7d4768944e2fb925e0921d63eb07d8d7056",
+  "dna": "af984cc92bb164cd885ae994407967026126a84c",
   "edition": 678,
-  "date": 1650135224653,
+  "date": 1650148952800,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
@@ -16,35 +16,35 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Rapid Gliding Ruby Fin"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Deep Ocean Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

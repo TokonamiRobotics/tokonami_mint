@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #1480",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1480.png",
-  "dna": "56b92615ecf7b6725a14087a23a9d5a747c0556e",
+  "dna": "10f7ed85d33e6c0af8fe3b12c5f9140bbcb4fd4d",
   "edition": 1480,
-  "date": 1650135371709,
+  "date": 1650149104024,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Kryptic Tokonami Base"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
@@ -16,31 +16,31 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Venoumous Rhino Shoulder Plate"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Bullish Bear Chimeric Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Purple Haze Visor"
+      "value": "Emerald Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Venomous Rhino Soulder Plate"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Weapon",

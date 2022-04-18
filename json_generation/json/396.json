@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #396",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/396.png",
-  "dna": "a121aa9a64d7b026c6b708971fee09a369a94526",
+  "dna": "fb27315af8a5aad192c3fc1ed439ce39a4c0d335",
   "edition": 396,
-  "date": 1650135174697,
+  "date": 1650148903684,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,11 +12,11 @@
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Teseract infused Hyper Engine"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Amber Laser Shoulder Plate"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Tokurai Heavy mounted Head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,19 +32,19 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Amber Laser Shoulder Plate"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

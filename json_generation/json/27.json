@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #27",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/27.png",
-  "dna": "15e0491360d25603893ce370af175a4dbbc0bd37",
+  "dna": "b182329d19a1b7a64363a6006c5e478e14732518",
   "edition": 27,
-  "date": 1650135104896,
+  "date": 1650148837487,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,15 +24,15 @@
     },
     {
       "trait_type": "Head",
-      "value": "Deep Water Hammering Head"
+      "value": "Bullish Bear Chimeric Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Mantis Eco location Antennae"
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Mantis Far sight Night Vision Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Blasting Warhammer"
     }
   ],
   "compiler": "HashLips Art Engine"

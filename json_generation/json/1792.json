@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #1792",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1792.png",
-  "dna": "5c8d416d9c8fe9e0603a54d09fea3f74c38751e2",
+  "dna": "9ed43342154cfbe6abc39b153696370e84fcdde1",
   "edition": 1792,
-  "date": 1650135428247,
+  "date": 1650149161252,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Entrance"
+      "value": "Purple District Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "Nitro Charged Thrusters"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
@@ -20,19 +20,19 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Sharding Emerald Blaster Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",

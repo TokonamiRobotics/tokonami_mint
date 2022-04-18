@@ -1,38 +1,38 @@
 {
   "name": "Tokonami #215",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/215.png",
-  "dna": "cf25548f21a79c8a3838b061fd93425ee04af5e6",
+  "dna": "1ed3110f4adafc0d5154289ee198dd36cb918dca",
   "edition": 215,
-  "date": 1650135141417,
+  "date": 1650148871455,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Entrance"
+      "value": "Sakunomi First Moon"
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Pain Coated Horns Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Tokassistant AR Battle Glasses"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Namis Frozen Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

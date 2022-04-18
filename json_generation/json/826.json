@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #826",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/826.png",
-  "dna": "b8fafc103c24264fd79cb1b29b9f98d0c8f69159",
+  "dna": "4d559d474319cee3d64f5a8f83fb6c8f3a58cd4f",
   "edition": 826,
-  "date": 1650135251492,
+  "date": 1650148980622,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Teseract infused Hyper Engine"
     },
     {
       "trait_type": "Rightarm",
@@ -20,23 +20,23 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Detachable Bullmerang Chest Plate"
+      "value": "Purple Haze Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Long Distance Rust Goggles"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Berserker Claws"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

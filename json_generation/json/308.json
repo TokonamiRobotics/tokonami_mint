@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #308",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/308.png",
-  "dna": "2fe1423bd5b4f85536a9c62e9be262325bdb6a52",
+  "dna": "4131ee3a976fb57c7a551e78c16f4443501ea5aa",
   "edition": 308,
-  "date": 1650135159845,
+  "date": 1650148887025,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,15 @@
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -28,19 +28,19 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Rapid Gliding Ruby Fin"
     },
     {
       "trait_type": "Visor",
-      "value": "Saphire Multichromic High Altitude Visor"
+      "value": "Amphibian Gill integrated Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Weapon",

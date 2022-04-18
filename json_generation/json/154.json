@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #154",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/154.png",
-  "dna": "8700e27fdc18be4c34811df2443c61d1f0689e17",
+  "dna": "5a26832253c66ea76093944a5ce922d9931d4f6c",
   "edition": 154,
-  "date": 1650135128940,
+  "date": 1650148860614,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Forbidden Nuclear Reactor Outskirts"
     },
     {
       "trait_type": "Wing",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Tokurai Heavy mounted Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Near vission Championship Glasses"
+      "value": "Long Distance Rust Goggles"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "Berserker Claws"
     }
   ],
   "compiler": "HashLips Art Engine"

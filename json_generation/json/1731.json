@@ -1,46 +1,46 @@
 {
   "name": "Tokonami #1731",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1731.png",
-  "dna": "d227709466c185a915f662e829a2861fcdb8ae42",
+  "dna": "5768371a451bc901ea967beea468a6d97fb58247",
   "edition": 1731,
-  "date": 1650135417042,
+  "date": 1650149149622,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Kryptic Tokonami Base"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Tokurai Deathly Chest Plate"
+      "value": "Lightweight blasting Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Tokurai Heavy mounted Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Heavy Charging Headbutter"
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

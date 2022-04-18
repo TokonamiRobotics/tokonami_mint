@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #604",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/604.png",
-  "dna": "0e419bfd7bcd5807c0b0260e8f9a49917fbd8453",
+  "dna": "baa8bb3bb60c995278364fc3dd252c097daa97b2",
   "edition": 604,
-  "date": 1650135210969,
+  "date": 1650148939569,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
@@ -20,11 +20,11 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Tokurai Heavy mounted Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,11 +32,11 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Long Distance Rust Goggles"
+      "value": "Deep Ocean Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",

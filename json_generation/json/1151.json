@@ -1,30 +1,30 @@
 {
   "name": "Tokonami #1151",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1151.png",
-  "dna": "02e750d47f9f6de41b1b767c28d995bd7e93cde4",
+  "dna": "5c80c2631b0ac53e8d75dd815253aa473d55bdb4",
   "edition": 1151,
-  "date": 1650135312115,
+  "date": 1650149041423,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Sakunomi First Moon"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Purple Haze Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Emerald Visor"
+      "value": "Mantis Far sight Night Vision Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",

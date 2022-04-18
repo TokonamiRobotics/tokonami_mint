@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #1043",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1043.png",
-  "dna": "c5ae541ce41a03c6e2e3a1eb882704ed26dc1591",
+  "dna": "d66b64754ac1fdd104e387472d7990130fa5232b",
   "edition": 1043,
-  "date": 1650135291148,
+  "date": 1650149021028,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Entrance"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Tokurai Deathly Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Pain Coated Horns Helmet"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Tokassistant AR Battle Glasses"
+      "value": "Purple Haze Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

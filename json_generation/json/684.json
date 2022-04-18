@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #684",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/684.png",
-  "dna": "b15df549f01c946d30f6f412fdc2c20a2ddf4785",
+  "dna": "57580f45555147f0d5450d01fbcb72024acbc91b",
   "edition": 684,
-  "date": 1650135225663,
+  "date": 1650148953801,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Amber Laser Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Reinforced Jaw Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Mantis Eco location Antennae"
+      "value": "Tokurai Rank Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Saphire Multichromic High Altitude Visor"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Amber Laser Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

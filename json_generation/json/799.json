@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #799",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/799.png",
-  "dna": "4873e6aaeefae7bb65f74373fc89671493800694",
+  "dna": "a67e5258032ded509fe69c4fc6250a8d914179d5",
   "edition": 799,
-  "date": 1650135246590,
+  "date": 1650148975584,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Venoumous Rhino Shoulder Plate"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Sharding Emerald Blaster Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Tokurai Heavy mounted Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Venomous Rhino Soulder Plate"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

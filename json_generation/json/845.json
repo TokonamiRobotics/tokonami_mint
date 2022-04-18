@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #845",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/845.png",
-  "dna": "9ae79cb8cccf1c25b1224e52137dd048647b9208",
+  "dna": "cee21084b1d3e1f84aade260b80e07754b476622",
   "edition": 845,
-  "date": 1650135254966,
+  "date": 1650148983972,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
@@ -20,11 +20,11 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Reinforced Jaw Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Tokassistant AR Battle Glasses"
+      "value": "Near vission Championship Glasses"
     },
     {
       "trait_type": "Medal",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

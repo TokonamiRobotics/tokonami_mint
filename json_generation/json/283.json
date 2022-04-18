@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #283",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/283.png",
-  "dna": "d92265d23b22ab95759eddd88482246e81173823",
+  "dna": "f50ca7e453079cfe26a782923ca4c0e9f6df8e6e",
   "edition": 283,
-  "date": 1650135154769,
+  "date": 1650148882895,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Underwater Base Exit"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Manouverability Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Nami Forged UltraGold Knight armour"
+      "value": "Venoumous Rhino Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Tokurai Deathly Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Deep Water Hammering Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Mantis Eco location Antennae"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Tokassistant AR Battle Glasses"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Nami Forged UltraGold Knight armour"
+      "value": "Venomous Rhino Soulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Namis Frozen Blade"
+      "value": "Berserker Claws"
     }
   ],
   "compiler": "HashLips Art Engine"

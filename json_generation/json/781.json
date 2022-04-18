@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #781",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/781.png",
-  "dna": "85582487ba2108112e2b3db893eb84070ae67279",
+  "dna": "fee5f07f6922b9c57cd256a903e7b3ee763b370c",
   "edition": 781,
-  "date": 1650135243342,
+  "date": 1650148971901,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mount Toji"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Tokurai Deathly Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Rapid Gliding Ruby Fin"
     },
     {
       "trait_type": "Visor",
-      "value": "Heat Seeking Locator Visor"
+      "value": "Emerald Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

@@ -1,38 +1,38 @@
 {
   "name": "Tokonami #1749",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1749.png",
-  "dna": "41bf7025887404e49b2738d5604d3b9794af1dde",
+  "dna": "52669775ccd15e3560f6ad463682cfc3da87684c",
   "edition": 1749,
-  "date": 1650135420470,
+  "date": 1650149152967,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Forbidden Nuclear Reactor Outskirts"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Teseract infused Hyper Engine"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Tokurai Deathly Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Purple Haze Visor"
+      "value": "Emerald Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "Reverbering Pistol"
     }
   ],
   "compiler": "HashLips Art Engine"

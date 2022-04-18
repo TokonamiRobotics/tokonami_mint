@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #2247",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2247.png",
-  "dna": "94d5bffb84e02b5c7003cb7e9db408f55bc823a2",
+  "dna": "d1ef1d33b019d521e78c27e0f9a4c5b50fbb8d45",
   "edition": 2247,
-  "date": 1650135513602,
+  "date": 1650149247294,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sacred Nami Meditation Ice Mountain"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
-      "value": "Detachable Bullmerang Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Rapid Gliding Ruby Fin"
+      "value": "Heavy Charging Headbutter"
     },
     {
       "trait_type": "Visor",
-      "value": "Near vission Championship Glasses"
+      "value": "Amphibian Gill integrated Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

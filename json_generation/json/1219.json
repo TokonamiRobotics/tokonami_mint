@@ -1,38 +1,38 @@
 {
   "name": "Tokonami #1219",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1219.png",
-  "dna": "95492075fa5614e65354f5d98a190c8c187a9b16",
+  "dna": "0521e427c2d0c465d2e45c7328491e8f98cd5ab1",
   "edition": 1219,
-  "date": 1650135324441,
+  "date": 1650149053319,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Kryptic Tokonami Base"
+      "value": "Nami Galaxy&Solar System"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Venoumous Rhino Shoulder Plate"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Detachable Bullmerang Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Tokurai Rank Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Nami Forged UltraGold Knight Visor"
+      "value": "Purple Haze Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Venomous Rhino Soulder Plate"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

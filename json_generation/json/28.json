@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #28",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/28.png",
-  "dna": "82d7f7583e30714a2525bf4afd741846fa7e85ff",
+  "dna": "d00d33af8ade9b9ecf0607934cc227d798be7e8c",
   "edition": 28,
-  "date": 1650135105105,
+  "date": 1650148837786,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Nami Galaxy&Solar System"
+      "value": "Sacred Nami Meditation Ice Mountain"
     },
     {
       "trait_type": "Wing",
-      "value": "Nitro Charged Thrusters"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
@@ -20,11 +20,11 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Nami Forged UltraGold Knight Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,11 +32,11 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Mantis Far sight Night Vision Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

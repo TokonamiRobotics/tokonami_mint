@@ -1,46 +1,46 @@
 {
   "name": "Tokonami #719",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/719.png",
-  "dna": "4895715374fa1f331579652d42902a14a19c43c0",
+  "dna": "6d136c01d5a86a4089e9bac40015bb404823c00b",
   "edition": 719,
-  "date": 1650135231904,
+  "date": 1650148960013,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple District Entrance"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Reinforced Jaw Head"
+      "value": "Deep Water Hammering Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Tokurai Rank Helmet"
+      "value": "Rapid Gliding Ruby Fin"
     },
     {
       "trait_type": "Visor",
-      "value": "Emerald Visor"
+      "value": "Amphibian Gill integrated Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

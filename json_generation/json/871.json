@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #871",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/871.png",
-  "dna": "b1ae0be01a8e0566ced690c5deb30671fba8bf1b",
+  "dna": "ef949cd1223d608375611a1d4f940093940fad27",
   "edition": 871,
-  "date": 1650135259782,
+  "date": 1650148988609,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
@@ -20,19 +20,19 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Lightweight blasting Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Tokurai Rank Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Purple Haze Visor"
+      "value": "Amphibian Gill integrated Visor"
     },
     {
       "trait_type": "Medal",

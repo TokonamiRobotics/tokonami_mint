@@ -1,46 +1,46 @@
 {
   "name": "Tokonami #1888",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1888.png",
-  "dna": "e826d387253e956ee0be6bca662330c65c99f11e",
+  "dna": "d83315cf83df91e2b1aef675eecc8ea802353a95",
   "edition": 1888,
-  "date": 1650135445604,
+  "date": 1650149179482,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Crimson Desert Lands"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Sharding Emerald Blaster Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Nami Forged UltraGold Knight Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Long Distance Rust Goggles"
+      "value": "Saphire Multichromic High Altitude Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

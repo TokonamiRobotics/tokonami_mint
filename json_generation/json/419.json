@@ -1,30 +1,30 @@
 {
   "name": "Tokonami #419",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/419.png",
-  "dna": "ae5b0f5af50fb1c0a4bd7cf0e57dc796a03549ae",
+  "dna": "9d2deb786507a146c1ba4ca6c7d8045099c33d6a",
   "edition": 419,
-  "date": 1650135178678,
+  "date": 1650148907951,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Nami Galaxy&Solar System"
+      "value": "Forbidden Nuclear Reactor Outskirts"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Deep Water Hammering Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Purple Haze Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Berserker Claws"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

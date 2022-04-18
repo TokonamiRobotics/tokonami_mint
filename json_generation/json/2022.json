@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #2022",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2022.png",
-  "dna": "420a4ef0389812da8640126c2ddc398bca338e5f",
+  "dna": "bcabae2c715ecbe6f42d89510db157b6aabe2100",
   "edition": 2022,
-  "date": 1650135471234,
+  "date": 1650149204439,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Forbidden Nuclear Reactor Outskirts"
     },
     {
       "trait_type": "Wing",
@@ -16,15 +16,15 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Tokurai Deathly Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
@@ -32,19 +32,19 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Purple Haze Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Golden Shadow Scimitar"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

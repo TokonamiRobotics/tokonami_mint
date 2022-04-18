@@ -1,26 +1,26 @@
 {
   "name": "Tokonami #786",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/786.png",
-  "dna": "5457e947e301489ea751e7ec03b42c15f3cac8a5",
+  "dna": "95bb6d0057343517a7d29838959b324f62c7e024",
   "edition": 786,
-  "date": 1650135244280,
+  "date": 1650148973165,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Entrance"
+      "value": "Nami Galaxy&Solar System"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Tokurai Deathly Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -28,23 +28,23 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Nami Forged UltraGold Knight Visor"
+      "value": "Amphibian Gill integrated Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

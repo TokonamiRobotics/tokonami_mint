@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #378",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/378.png",
-  "dna": "9d56dbd80c65bf1a3ac3cc0c517d04e9fe48d5a8",
+  "dna": "023c10e467b17b20860159baad82ec6dc4797a99",
   "edition": 378,
-  "date": 1650135171776,
+  "date": 1650148899941,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Crimson Desert Lands"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,15 +24,15 @@
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Deep Water Hammering Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Pain Coated Horns Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Emerald Visor"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Blasting Warhammer"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

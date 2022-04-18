@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #605",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/605.png",
-  "dna": "005b3111068dac7c9919b6fc278f0a341e01ac19",
+  "dna": "6426561c6e8de57b9cd6e70c4f82107a4841265f",
   "edition": 605,
-  "date": 1650135211158,
+  "date": 1650148939741,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Nami Galaxy&Solar System"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
@@ -20,23 +20,23 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Sharding Emerald Blaster Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Pain Coated Horns Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Heat Seeking Locator Visor"
+      "value": "Near vission Championship Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #413",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/413.png",
-  "dna": "05614f7a484d09dc6a8d4bc7c9b2ee4fa575ea0e",
+  "dna": "a1a579458792b2a9b645c7983e81065f1a30bc4e",
   "edition": 413,
-  "date": 1650135177627,
+  "date": 1650148906831,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Venoumous Rhino Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,27 +24,27 @@
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Haze Generator Compact Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Mantis Far sight Night Vision Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Venomous Rhino Soulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

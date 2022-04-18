@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #495",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/495.png",
-  "dna": "31bfca32746f78680efe7278830a79fb85975541",
+  "dna": "62a237f029aa790b639f0d84c8360289c8ced15f",
   "edition": 495,
-  "date": 1650135192132,
+  "date": 1650148920564,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mount Toji"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Lightweight blasting Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Emerald Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

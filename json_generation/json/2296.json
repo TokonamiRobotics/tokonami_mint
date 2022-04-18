@@ -1,46 +1,46 @@
 {
   "name": "Tokonami #2296",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2296.png",
-  "dna": "f8e7a2028f545fd1508121c64af945013d12338e",
+  "dna": "18d6db89ab96d756e67440f398964a184e3b4ffe",
   "edition": 2296,
-  "date": 1650135523076,
+  "date": 1650149256817,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sacred Nami Meditation Ice Mountain"
+      "value": "Underwater Base Exit"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Manouverability Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Tokurai Heavy mounted Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Rapid Gliding Ruby Fin"
+      "value": "Heavy Charging Headbutter"
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

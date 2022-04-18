@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #747",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/747.png",
-  "dna": "a6abf94618c8beaf264cf88d9ca9d537d8316772",
+  "dna": "a3d5780154adccfb1faed71338b75d569efc4d1a",
   "edition": 747,
-  "date": 1650135237012,
+  "date": 1650148964969,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Sakunomi First Moon"
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "Nitro Charged Thrusters"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Tokurai Deathly Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Bullish Bear Chimeric Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Amphibian Gill integrated Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "Berserker Claws"
     }
   ],
   "compiler": "HashLips Art Engine"

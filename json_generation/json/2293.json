@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #2293",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2293.png",
-  "dna": "dc84a89bd0a5235e5ab5ee30fe0af1256ca63914",
+  "dna": "9f2d9c35882877ff4e11bcc9a419b6db8853f9d9",
   "edition": 2293,
-  "date": 1650135522501,
+  "date": 1650149256200,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Sakunomi First Moon"
     },
     {
       "trait_type": "Wing",
@@ -20,11 +20,11 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Bullish Bear Chimeric Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,11 +32,11 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Purple Haze Visor"
+      "value": "Mantis Far sight Night Vision Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",

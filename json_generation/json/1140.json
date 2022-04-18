@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #1140",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1140.png",
-  "dna": "b32f0c5bb14c51ab68f476ef749a5c9d0330960d",
+  "dna": "71778b5451ba5ce893db8da213fe7058c9006fc6",
   "edition": 1140,
-  "date": 1650135309982,
+  "date": 1650149039566,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Forbidden Nuclear Reactor Outskirts"
+      "value": "Sakunomi First Moon"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Lightweight blasting Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Deep Water Hammering Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Haze Generator Compact Helmet"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Saphire Multichromic High Altitude Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Blasting Warhammer"
+      "value": "Namis Frozen Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

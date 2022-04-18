@@ -1,30 +1,30 @@
 {
   "name": "Tokonami #1690",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1690.png",
-  "dna": "8b116a0e91148954af52ebf51fe828f33641db27",
+  "dna": "377f05c64588fefc3e83a9392074e39de9e1314d",
   "edition": 1690,
-  "date": 1650135409597,
+  "date": 1650149141869,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Teseract infused Hyper Engine"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Sharding Emerald Blaster Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Deep Water Hammering Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Tokassistant AR Battle Glasses"
+      "value": "Deep Ocean Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Blasting Warhammer"
+      "value": "Reverbering Pistol"
     }
   ],
   "compiler": "HashLips Art Engine"

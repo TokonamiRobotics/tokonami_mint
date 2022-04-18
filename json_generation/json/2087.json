@@ -1,26 +1,26 @@
 {
   "name": "Tokonami #2087",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2087.png",
-  "dna": "9c20c4c10b47aab89f8ceb7a3489c01545d342e8",
+  "dna": "c7b1afec30e87b7bf01643d19b156ce53f4d7cdb",
   "edition": 2087,
-  "date": 1650135483987,
+  "date": 1650149217358,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Entrance"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Venoumous Rhino Shoulder Plate"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Tokurai Rank Helmet"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Tokassistant AR Battle Glasses"
+      "value": "Deep Ocean Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Venomous Rhino Soulder Plate"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #2158",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2158.png",
-  "dna": "c923929613c31f59dfbe0987923be1015160c9ba",
+  "dna": "afdc6252e8872d9fbf2faca8ecafc789cac9b151",
   "edition": 2158,
-  "date": 1650135496619,
+  "date": 1650149230957,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Nami Galaxy&Solar System"
+      "value": "Forbidden Nuclear Reactor Outskirts"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "High Manouverability Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,27 +24,27 @@
     },
     {
       "trait_type": "Head",
-      "value": "Toko Medic Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Mantis Eco location Antennae"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Nami Forged UltraGold Knight Visor"
+      "value": "Saphire Multichromic High Altitude Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Blasting Warhammer"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

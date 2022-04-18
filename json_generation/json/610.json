@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #610",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/610.png",
-  "dna": "4728d376ca973105f678dcfc678d859207c66849",
+  "dna": "912f8c2cb6439a1797c5d1b59ded82414a7ca1b8",
   "edition": 610,
-  "date": 1650135212074,
+  "date": 1650148940658,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
@@ -16,15 +16,15 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Bullish Bear Chimeric Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
@@ -32,15 +32,15 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Weapon",

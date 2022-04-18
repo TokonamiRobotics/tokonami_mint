@@ -1,34 +1,34 @@
 {
   "name": "Tokonami #2096",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2096.png",
-  "dna": "bd7e830b2fb4f9e28c00b9e76c408376c97f84f0",
+  "dna": "fed36116afe54d136d66bdd043e6c6abcbda3887",
   "edition": 2096,
-  "date": 1650135485578,
+  "date": 1650149219135,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Nami Galaxy&Solar System"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
-      "value": "Nami Forged UltraGold Knight Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Bullish Bear Chimeric Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Rapid Gliding Ruby Fin"
+      "value": "Pain Coated Horns Helmet"
     },
     {
       "trait_type": "Visor",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",
-      "value": "Blasting Warhammer"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

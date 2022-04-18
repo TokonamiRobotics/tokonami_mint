@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #749",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/749.png",
-  "dna": "0bd0407c2707d2e3f5fe55c55070ea7589e32de5",
+  "dna": "963295a758afe0ce2271c65a06d2ea25692b2c7d",
   "edition": 749,
-  "date": 1650135237362,
+  "date": 1650148965316,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Chest",
@@ -24,27 +24,27 @@
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Haze Generator Compact Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Amphibian Gill integrated Visor"
+      "value": "Emerald Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

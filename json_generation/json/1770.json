@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #1770",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1770.png",
-  "dna": "56531e2e7c486de2d7abb5451593a3b99760ac31",
+  "dna": "eac2fa87a96ba98ec26408c3e13ba64e264651fc",
   "edition": 1770,
-  "date": 1650135424314,
+  "date": 1650149157275,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "Nitro Charged Thrusters"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
@@ -20,11 +20,11 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
@@ -36,7 +36,7 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Namis Frozen Blade"
+      "value": "Berserker Claws"
     }
   ],
   "compiler": "HashLips Art Engine"

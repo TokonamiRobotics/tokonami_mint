@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #1289",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1289.png",
-  "dna": "90664e5000fb29dc43a72b9a0d4a46d7d7a6b4b5",
+  "dna": "2a3415b526843c2fee7f76fae89bdd29750f2807",
   "edition": 1289,
-  "date": 1650135337198,
+  "date": 1650149066418,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Venoumous Rhino Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
-      "value": "Sharding Emerald Blaster Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Nami Forged UltraGold Knight Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Mantis Eco location Antennae"
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Mantis Far sight Night Vision Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Venomous Rhino Soulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Berserker Claws"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #494",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/494.png",
-  "dna": "59c0fecfacf91b97849110aeed49055cea3319dd",
+  "dna": "ed128199b68d17fd1d114209ae826c03656cd4d5",
   "edition": 494,
-  "date": 1650135191965,
+  "date": 1650148920399,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Forbidden Nuclear Reactor Outskirts"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,27 +24,27 @@
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Haze Generator Compact Helmet"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "Namis Frozen Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

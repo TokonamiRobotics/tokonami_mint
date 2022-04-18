@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #491",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/491.png",
-  "dna": "3c64134aec66e0b1f2c9ed72bba749bea04da943",
+  "dna": "0dc23106292ca6bed53aac4bf2459de2211c3dde",
   "edition": 491,
-  "date": 1650135191461,
+  "date": 1650148919895,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Underwater Base Exit"
     },
     {
       "trait_type": "Wing",
@@ -20,11 +20,11 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Lightweight blasting Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Tokurai Heavy mounted Head"
     },
     {
       "trait_type": "Helmet",
@@ -32,11 +32,11 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Saphire Multichromic High Altitude Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Namis Frozen Blade"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

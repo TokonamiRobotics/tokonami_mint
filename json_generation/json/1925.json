@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #1925",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1925.png",
-  "dna": "e97e7d547cd042aabe1b34b0c00b2da3979bfe7a",
+  "dna": "d256ef3439b89961a79f8f7af3f5cc6f66b80458",
   "edition": 1925,
-  "date": 1650135453391,
+  "date": 1650149186149,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Crimson Desert Lands"
+      "value": "Kryptic Tokonami Base"
     },
     {
       "trait_type": "Wing",
@@ -16,31 +16,31 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Detachable Bullmerang Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Nami Forged UltraGold Knight Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Saphire Multichromic High Altitude Visor"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

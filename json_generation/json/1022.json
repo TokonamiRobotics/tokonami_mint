@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #1022",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1022.png",
-  "dna": "8a48e4b0cc8a0f5e2e0937eeffa56e436eec0811",
+  "dna": "4e34f5e62cbcfe4b78925cb305b25deca3f8b252",
   "edition": 1022,
-  "date": 1650135287208,
+  "date": 1650149017285,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Amber Laser Shoulder Plate"
+      "value": "Venoumous Rhino Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,27 +24,27 @@
     },
     {
       "trait_type": "Head",
-      "value": "Toko Medic Head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Haze Generator Compact Helmet"
+      "value": "Tokurai Rank Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Tokassistant AR Battle Glasses"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Amber Laser Shoulder Plate"
+      "value": "Venomous Rhino Soulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

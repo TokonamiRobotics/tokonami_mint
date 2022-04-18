@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #310",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/310.png",
-  "dna": "467368d001ad82f8ede53aca6547897193c71997",
+  "dna": "6157c7eeb6a844f4d793de9a04b189d585091403",
   "edition": 310,
-  "date": 1650135160193,
+  "date": 1650148887373,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Sakunomi First Moon"
     },
     {
       "trait_type": "Wing",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Venoumous Rhino Shoulder Plate"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Lightweight blasting Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Toko Medic Head"
+      "value": "Bullish Bear Chimeric Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Pain Coated Horns Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Purple Haze Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Venomous Rhino Soulder Plate"
+      "value": "Tokurai Shielded Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

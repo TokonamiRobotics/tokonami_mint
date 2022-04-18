@@ -1,30 +1,30 @@
 {
   "name": "Tokonami #486",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/486.png",
-  "dna": "148fb7862808e84ae1a095e076a8591a8ca63e6c",
+  "dna": "1c2fef3f25546d93c9ee209c6c241c0fd929fe5a",
   "edition": 486,
-  "date": 1650135190531,
+  "date": 1650148919033,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sacred Nami Meditation Ice Mountain"
+      "value": "Mount Toji"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Tokurai Shielded Shoulder Plate"
+      "value": "Venoumous Rhino Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Tokurai Deathly Chest Plate"
+      "value": "Lightweight blasting Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Bullish Bear Chimeric Head"
     },
     {
       "trait_type": "Helmet",
@@ -36,11 +36,11 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Tokurai Shielded Shoulder Plate"
+      "value": "Venomous Rhino Soulder Plate"
     },
     {
       "trait_type": "Weapon",

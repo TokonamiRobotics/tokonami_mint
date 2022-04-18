@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #1150",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1150.png",
-  "dna": "e0dfde9222b1a40fd5ea847720532d7a17fb4fb9",
+  "dna": "df53c6dad0ddc99a62323391da3627670457dd12",
   "edition": 1150,
-  "date": 1650135311926,
+  "date": 1650149041270,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Crimson Desert Lands"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
@@ -20,19 +20,19 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Sharding Emerald Blaster Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Deep Water Hammering Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Berserker Claws"
     }
   ],
   "compiler": "HashLips Art Engine"

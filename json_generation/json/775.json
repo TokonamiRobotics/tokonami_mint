@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #775",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/775.png",
-  "dna": "2b207521431b2cf0357839591773b5c61e71f0f1",
+  "dna": "3543455f1a3280a798f2848f1f7f574023a3eb34",
   "edition": 775,
-  "date": 1650135242232,
+  "date": 1650148970493,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple District Entrance"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
@@ -16,35 +16,35 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Sharding Emerald Blaster Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Tokurai Heavy mounted Head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Purple Haze Visor"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Ravenous Drilling Shoulder Plate"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Berserker Claws"
     }
   ],
   "compiler": "HashLips Art Engine"

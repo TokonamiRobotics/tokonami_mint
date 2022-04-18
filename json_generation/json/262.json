@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #262",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/262.png",
-  "dna": "c7108b99e86c329bc581db1fdb1b9c72c2c7f25b",
+  "dna": "4d45a04da2944d989122db13cdaea370bb985f8f",
   "edition": 262,
-  "date": 1650135150760,
+  "date": 1650148879609,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Underwater Base Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "Nitro Charged Thrusters"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Amber Laser Shoulder Plate"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,11 +24,11 @@
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Rapid Gliding Ruby Fin"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
@@ -36,15 +36,15 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Amber Laser Shoulder Plate"
+      "value": "Purple Haze Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Blasting Warhammer"
     }
   ],
   "compiler": "HashLips Art Engine"

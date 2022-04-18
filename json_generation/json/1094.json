@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #1094",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1094.png",
-  "dna": "4e9a63fcd238c8a744e8104a7d31300f8941ee8f",
+  "dna": "fe9bbfb22f7a875b8b57850beb98cb0b2a5fc030",
   "edition": 1094,
-  "date": 1650135300518,
+  "date": 1650149030918,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sacred Nami Meditation Ice Mountain"
+      "value": "Underwater Base Exit"
     },
     {
       "trait_type": "Wing",
@@ -20,11 +20,11 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Sharding Emerald Blaster Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Emerald Visor"
+      "value": "Near vission Championship Glasses"
     },
     {
       "trait_type": "Medal",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Blasting Warhammer"
+      "value": "Reverbering Pistol"
     }
   ],
   "compiler": "HashLips Art Engine"

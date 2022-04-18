@@ -1,26 +1,26 @@
 {
   "name": "Tokonami #1776",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1776.png",
-  "dna": "73019bca5ef17bbcc49688e7739520b01b30a74e",
+  "dna": "3f7e5ad9105f9394fdd495c51e27334c92411997",
   "edition": 1776,
-  "date": 1650135425391,
+  "date": 1650149158439,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mount Toji"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "Teseract infused Hyper Engine"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Detachable Bullmerang Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Nami Forged UltraGold Knight Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Purple Haze Visor"
     },
     {
       "trait_type": "Medal",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

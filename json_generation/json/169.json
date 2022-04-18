@@ -1,26 +1,26 @@
 {
   "name": "Tokonami #169",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/169.png",
-  "dna": "8105dcda1f056851fb0e0822769d1b1923eb03fb",
+  "dna": "91db115b32d868fb91a313268b91381444f1ddac",
   "edition": 169,
-  "date": 1650135132102,
+  "date": 1650148863289,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple District Entrance"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "Nitro Charged Thrusters"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Nami Forged UltraGold Knight armour"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Toko Medic Chest Plate"
+      "value": "Lightweight blasting Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -28,23 +28,23 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Pain Coated Horns Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Nami Forged UltraGold Knight armour"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

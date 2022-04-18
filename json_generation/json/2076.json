@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #2076",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2076.png",
-  "dna": "0d9fe40c5964f5947b6f11f816939cb0e3527451",
+  "dna": "f9c185b7519afd9ca66ef7ccb5b9ce38cd41882c",
   "edition": 2076,
-  "date": 1650135482037,
+  "date": 1650149215300,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,39 +12,39 @@
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "High Manouverability Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Detachable Bullmerang Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Nami Forged UltraGold Knight Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Venomous Viper Helmet"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Purple Haze Visor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Golden Shadow Scimitar"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

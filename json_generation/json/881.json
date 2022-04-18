@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #881",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/881.png",
-  "dna": "87babd3b66f7533e86ff0129058a8fa5c3206c23",
+  "dna": "344aaa7fb5ac7b0b43f9742265e03e69150ce5d0",
   "edition": 881,
-  "date": 1650135261738,
+  "date": 1650148990345,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Last Sunrise"
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Chest",
@@ -24,11 +24,11 @@
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Turbo Assisted head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
@@ -40,11 +40,11 @@
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "General Healing Shoulder Kit"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reverbering Pistol"
+      "value": "Blasting Warhammer"
     }
   ],
   "compiler": "HashLips Art Engine"

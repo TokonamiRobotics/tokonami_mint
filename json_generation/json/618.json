@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #618",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/618.png",
-  "dna": "4dbd44bef51986fee72f1d6c3f34c1e07dcf2901",
+  "dna": "42853b1b8e0ec95e8fe193d7620bda4dadc94af6",
   "edition": 618,
-  "date": 1650135213592,
+  "date": 1650148942106,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Forbidden Nuclear Reactor Outskirts"
     },
     {
       "trait_type": "Wing",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Detachable Bullmerang Chest Plate"
+      "value": "Tokurai Deathly Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Rapid Gliding Ruby Fin"
+      "value": "Haze Generator Compact Helmet"
     },
     {
       "trait_type": "Visor",
@@ -36,15 +36,15 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Heavy Tungsten Defensive Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "Reverbering Pistol"
     }
   ],
   "compiler": "HashLips Art Engine"

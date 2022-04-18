@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #2056",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/2056.png",
-  "dna": "3c04d8f5bb057f948e602f22af17b1a7f9f73c91",
+  "dna": "585d0dad26283d692276c85456a5adf6099f8b29",
   "edition": 2056,
-  "date": 1650135478354,
+  "date": 1650149211354,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
@@ -20,19 +20,19 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Amphibious Chest Plate"
+      "value": "Sharding Emerald Blaster Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Vultron Head"
+      "value": "Nami Forged UltraGold Knight Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Tokassistant AR Battle Glasses"
     },
     {
       "trait_type": "Medal",

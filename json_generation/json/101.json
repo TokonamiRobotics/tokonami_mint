@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #101",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/101.png",
-  "dna": "155be0d27d01deeaa9516ab3933f11bd51627eb4",
+  "dna": "132b37e8540e172d687d47cc5eba216324efe254",
   "edition": 101,
-  "date": 1650135119670,
+  "date": 1650148851075,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Entrance"
+      "value": "Nami Galaxy&Solar System"
     },
     {
       "trait_type": "Wing",
-      "value": "None"
+      "value": "Teseract infused Hyper Engine"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,11 +24,11 @@
     },
     {
       "trait_type": "Head",
-      "value": "Nami Forged UltraGold Knight Head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Nami Forged UltraGold Knight Helmet"
+      "value": "Pain Coated Horns Helmet"
     },
     {
       "trait_type": "Visor",
@@ -36,11 +36,11 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Ravenous Drilling Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

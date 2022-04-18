@@ -1,50 +1,50 @@
 {
   "name": "Tokonami #1261",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1261.png",
-  "dna": "6ff51c4b649d38f1de4560d9bd5cb84cdffefb08",
+  "dna": "524c5a6c97e4b944cf7434e83eb5501e91c72d9c",
   "edition": 1261,
-  "date": 1650135332234,
+  "date": 1650149061271,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Forbidden Nuclear Reactor Outskirts"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Amber Laser Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Nami Forged UltraGold Knight Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Nami Forged UltraGold Knight Head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Nami Forged UltraGold Knight Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Purple Haze Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Amber Laser Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Berserker Claws"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

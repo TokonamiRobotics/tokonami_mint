@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #716",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/716.png",
-  "dna": "32d7083a6f6bda011d44b0a910b3761e304bac07",
+  "dna": "6d39216f449a62e1694f1f5b0648aa0f09d12b74",
   "edition": 716,
-  "date": 1650135231305,
+  "date": 1650148959478,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Kryptic Tokonami Base"
+      "value": "Underwater Base Exit"
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "High Manouverability Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Chest",
@@ -24,27 +24,27 @@
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Venomous Viper Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Rapid Gliding Sunvisor"
+      "value": "Near vission Championship Glasses"
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Purple Haze Shoulder Plate"
+      "value": "Toko Ray Shooting Unit"
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

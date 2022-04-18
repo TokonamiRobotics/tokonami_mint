@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #586",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/586.png",
-  "dna": "4ac348123ec893eccfd72287b1ce96e1a3612280",
+  "dna": "92d7e6cdeaa9fe5e6ce479e8901ca301440e1825",
   "edition": 586,
-  "date": 1650135207748,
+  "date": 1650148936368,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Forbidden Nuclear Reactor Outskirts"
+      "value": "Purple District Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "Toktor Oktopos Tentacles"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
@@ -24,11 +24,11 @@
     },
     {
       "trait_type": "Head",
-      "value": "Toko Medic Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Haze Generator Compact Helmet"
+      "value": "Rapid Gliding Ruby Fin"
     },
     {
       "trait_type": "Visor",
@@ -36,7 +36,7 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Golden Shadow Scimitar"
+      "value": "Berserker Claws"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #1728",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1728.png",
-  "dna": "a30010694cd67e9b4f9eabb87b54b30115387d4a",
+  "dna": "d0066c1ba465f6171ce7415116741df21294b9ba",
   "edition": 1728,
-  "date": 1650135416505,
+  "date": 1650149149037,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Sacred Nami Meditation Ice Mountain"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Mantis Eco location Antennae"
     },
     {
       "trait_type": "Visor",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Berserker Claws"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

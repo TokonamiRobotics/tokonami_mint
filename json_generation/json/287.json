@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #287",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/287.png",
-  "dna": "070584c61bfc60871ffb237602a1f181f026acb2",
+  "dna": "f93b0c20b1a1023fedd6311ff0da87bf3f5118b5",
   "edition": 287,
-  "date": 1650135155646,
+  "date": 1650148883522,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Nami Galaxy&Solar System"
+      "value": "Crimson Desert Lands"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -32,19 +32,19 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Purple Haze Visor"
+      "value": "Saphire Multichromic High Altitude Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "General Healing Shoulder Kit"
+      "value": "Artificial Assistant Shoulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "Namis Frozen Blade"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #503",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/503.png",
-  "dna": "ac542faeda72bad0027a184761b94b2060f47187",
+  "dna": "5e1ab5258a6ccf543739d24131ff2c0071f35f1b",
   "edition": 503,
-  "date": 1650135193533,
+  "date": 1650148922018,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Sacred Nami Meditation Ice Mountain"
     },
     {
       "trait_type": "Wing",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -32,11 +32,11 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Deep Ocean Visor"
+      "value": "Heat Seeking Locator Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",

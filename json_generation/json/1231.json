@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #1231",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1231.png",
-  "dna": "0d80277183078a086ebc4f30513e1f16eabcc354",
+  "dna": "e085220bc1ec93592033f5fc594b43b7e80bfb2c",
   "edition": 1231,
-  "date": 1650135326691,
+  "date": 1650149055534,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Forbidden Nuclear Reactor Outskirts"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Mantis Eco location Antennae"
+      "value": "Heavy Charging Headbutter"
     },
     {
       "trait_type": "Visor",
-      "value": "Near vission Championship Glasses"
+      "value": "Amphibian Gill integrated Visor"
     },
     {
       "trait_type": "Medal",

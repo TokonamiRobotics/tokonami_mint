@@ -1,4 +1,4 @@
-const fs = require('fs');
+import fs from "fs";
 
 let rawdata = fs.readFileSync('./json/_metadata.json');
 let allData = JSON.parse(rawdata);
@@ -17,12 +17,12 @@ for (let item of allData) {
         attributes: item.attributes,
         compiler: item.compiler
     };
-    fs.writeFile(`./new_json/${counter}.json`, JSON.stringify(currentObj), function (err) {
+    fs.writeFile(`./new_json/${counter}.json`, JSON.stringify(currentObj), function(err) {
         if (err) {
             console.log("An error occured while writing JSON Object to File.");
             return console.log(err);
         }
-     
+
         console.log(`./new_json/${counter}.json saved!`);
     });
 }

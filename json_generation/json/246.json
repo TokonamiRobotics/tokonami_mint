@@ -1,22 +1,22 @@
 {
   "name": "Tokonami #246",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/246.png",
-  "dna": "b3bc20ce78040d6644a301c8ea35be7fea9df3d4",
+  "dna": "755bbd0824ef6692f8c9a0f26a58d43862a513ab",
   "edition": 246,
-  "date": 1650135147559,
+  "date": 1650148876816,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple District Entrance"
+      "value": "Mount Toji"
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "None"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Chest",
@@ -24,11 +24,11 @@
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Toko Medic Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Heavy Charging Headbutter"
+      "value": "Mantis Eco location Antennae"
     },
     {
       "trait_type": "Visor",
@@ -36,11 +36,11 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Toko Ray Shooting Unit"
+      "value": "Laser Shooter Shoulder Plate"
     },
     {
       "trait_type": "Weapon",

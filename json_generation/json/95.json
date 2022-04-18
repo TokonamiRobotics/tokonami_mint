@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #95",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/95.png",
-  "dna": "fb47927f0f04efc48f8ccacf5bf507a632d5c4d0",
+  "dna": "e5f45dcfcddc12bda30afd907ff3ba972fbfefa9",
   "edition": 95,
-  "date": 1650135118553,
+  "date": 1650148850007,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Underwater Base Exit"
+      "value": "Nami Galaxy&Solar System"
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "High Manouverability Wings"
     },
     {
       "trait_type": "Rightarm",
@@ -24,19 +24,19 @@
     },
     {
       "trait_type": "Head",
-      "value": "Laser Blasting Head"
+      "value": "Reinforced Jaw Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Rapid Gliding Ruby Fin"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Mantis Far sight Night Vision Visor"
+      "value": "Nami Forged UltraGold Knight Visor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "Reinforced Blade"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

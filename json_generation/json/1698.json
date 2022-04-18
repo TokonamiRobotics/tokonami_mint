@@ -1,14 +1,14 @@
 {
   "name": "Tokonami #1698",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1698.png",
-  "dna": "66e2e7772bbb027772e5832155c6ae73102dd1dc",
+  "dna": "51fed2bf092453d974b08b7274a5532f7e542a38",
   "edition": 1698,
-  "date": 1650135411123,
+  "date": 1650149143295,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Forbidden Nuclear Reactor Outskirts"
+      "value": "Underwater Base Exit"
     },
     {
       "trait_type": "Wing",
@@ -20,11 +20,11 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Sharding Emerald Blaster Chest Plate"
+      "value": "Amphibious Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Reinforced Jaw Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
@@ -36,7 +36,7 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Ground Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reverbering Pistol"
     }
   ],
   "compiler": "HashLips Art Engine"

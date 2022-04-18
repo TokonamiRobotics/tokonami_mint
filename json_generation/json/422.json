@@ -1,30 +1,30 @@
 {
   "name": "Tokonami #422",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/422.png",
-  "dna": "c1b680e9c303331cd8726e1703601d6fb080c069",
+  "dna": "857adbf0a93df7938bd47feb66142b29258bb61e",
   "edition": 422,
-  "date": 1650135179206,
+  "date": 1650148908596,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sakunomi First Moon"
+      "value": "Purple District Entrance"
     },
     {
       "trait_type": "Wing",
-      "value": "High Altitute Wings"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "Nami Forged UltraGold Knight armour"
     },
     {
       "trait_type": "Chest",
-      "value": "Vultron Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Deep Water Hammering Head"
+      "value": "Nami Forged UltraGold Knight Head"
     },
     {
       "trait_type": "Helmet",
@@ -36,15 +36,15 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Amphibian Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Laser Shooter Shoulder Plate"
+      "value": "Nami Forged UltraGold Knight armour"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Golden Shadow Scimitar"
     }
   ],
   "compiler": "HashLips Art Engine"

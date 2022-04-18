@@ -1,26 +1,26 @@
 {
   "name": "Tokonami #369",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/369.png",
-  "dna": "faa364bb0cd2a3f44cda9e84945fd77486c009bb",
+  "dna": "ed474a0f278ce3675d50a660d2ad53388e2fc04d",
   "edition": 369,
-  "date": 1650135170229,
+  "date": 1650148898248,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple District Entrance"
+      "value": "Sakunomi First Moon"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Venoumous Rhino Shoulder Plate"
     },
     {
       "trait_type": "Chest",
-      "value": "Purple Haze Chest Plate"
+      "value": "Vultron Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -32,19 +32,19 @@
     },
     {
       "trait_type": "Visor",
-      "value": "Amphibian Gill integrated Visor"
+      "value": "Rapid Gliding Sunvisor"
     },
     {
       "trait_type": "Medal",
-      "value": "Air Unit"
+      "value": "Ground Unit"
     },
     {
       "trait_type": "Leftarm",
-      "value": "Artificial Assistant Shoulder Plate"
+      "value": "Venomous Rhino Soulder Plate"
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Blasting Warhammer"
     }
   ],
   "compiler": "HashLips Art Engine"

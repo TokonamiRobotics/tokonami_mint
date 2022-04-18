@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #979",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/979.png",
-  "dna": "69423ac57906d825be0800bc1118d7bdeb58501f",
+  "dna": "ed865841c8d084b3a06d63e64b52e66d3f6f9d18",
   "edition": 979,
-  "date": 1650135279397,
+  "date": 1650149008787,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Nami Galaxy&Solar System"
+      "value": "Mount Toji"
     },
     {
       "trait_type": "Wing",
-      "value": "High Manouverability Wings"
+      "value": "High Altitute Wings"
     },
     {
       "trait_type": "Rightarm",
@@ -20,15 +20,15 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Sharding Emerald Blaster Chest Plate"
+      "value": "Toko Medic Chest Plate"
     },
     {
       "trait_type": "Head",
-      "value": "Turbo Assisted head"
+      "value": "Vultron Head"
     },
     {
       "trait_type": "Helmet",
-      "value": "Mantis Eco location Antennae"
+      "value": "Vultron Helmet"
     },
     {
       "trait_type": "Visor",
@@ -36,7 +36,7 @@
     },
     {
       "trait_type": "Medal",
-      "value": "Amphibian Unit"
+      "value": "Air Unit"
     },
     {
       "trait_type": "Leftarm",

@@ -1,18 +1,18 @@
 {
   "name": "Tokonami #1204",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1204.png",
-  "dna": "e6b2d5b6a7cdc74f20d3c6dd4d2d035cd6cbfe06",
+  "dna": "d84f6cd4ad8c6342f8dccc13fdfd4b9725a56c7d",
   "edition": 1204,
-  "date": 1650135321727,
+  "date": 1650149050556,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Last Sunrise"
+      "value": "Kryptic Tokonami Base"
     },
     {
       "trait_type": "Wing",
-      "value": "Teseract infused Hyper Engine"
+      "value": "Toktor Oktopos Tentacles"
     },
     {
       "trait_type": "Rightarm",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Tokurai Heavy mounted Head"
+      "value": "Laser Blasting Head"
     },
     {
       "trait_type": "Helmet",
@@ -44,7 +44,7 @@
     },
     {
       "trait_type": "Weapon",
-      "value": "None"
+      "value": "Reinforced Blade"
     }
   ],
   "compiler": "HashLips Art Engine"

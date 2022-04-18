@@ -1,10 +1,10 @@
 {
   "name": "Tokonami #1122",
-  "description": "Tokonami to the Moon",
+  "description": "2331 TOKONAMI Ready for the Revolution",
   "image": "ipfs://NewUriToReplace/1122.png",
-  "dna": "61d8420c6e1250773012534789fff9b8a5c6eaae",
+  "dna": "45035c99d932bce307260175f9f42445a3d1d923",
   "edition": 1122,
-  "date": 1650135306339,
+  "date": 1650149036251,
   "attributes": [
     {
       "trait_type": "Background",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Chest",
-      "value": "Sharding Emerald Blaster Chest Plate"
+      "value": "Purple Haze Chest Plate"
     },
     {
       "trait_type": "Head",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Helmet",
-      "value": "Vultron Helmet"
+      "value": "Nami Forged UltraGold Knight Helmet"
     },
     {
       "trait_type": "Visor",
-      "value": "Long Distance Rust Goggles"
+      "value": "Amphibian Gill integrated Visor"
     },
     {
       "trait_type": "Medal",
