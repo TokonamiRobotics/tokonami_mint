@@ -38,7 +38,7 @@ yargs(hideBin(process.argv))
         }
     )
     .command(
-        'initialize <ownerAccount> <contractAccount> <mintCost> <royaltiesAccount> <royaltiesValue>', 'initialize state for deployed contract',
+        'initialize <ownerAccount> <contractAccount> <mintCost> <royaltiesAccount> <royaltiesValue> <urlMedia> <urlReference>', 'initialize state for deployed contract',
         (yargs) => {
             yargs.positional(
                 'ownerAccount', {
@@ -70,9 +70,21 @@ yargs(hideBin(process.argv))
                     default: 'Cambi',
                     describe: 'fee to be paid to nft holders from every bet base /100000'
                 });
+            yargs.positional(
+                'urlMedia', {
+                    type: 'string',
+                    default: 'Cambi',
+                    describe: 'fee to be paid to nft holders from every bet base /100000'
+                });
+            yargs.positional(
+                'urlReference', {
+                    type: 'string',
+                    default: 'Cambi',
+                    describe: 'fee to be paid to nft holders from every bet base /100000'
+                });
         },
         (argv) => {
-            initializeContract(argv.ownerAccount, argv.contractAccount, argv.mintCost, argv.royaltiesAccount, argv.royaltiesValue);
+            initializeContract(argv.ownerAccount, argv.contractAccount, argv.mintCost, argv.royaltiesAccount, argv.royaltiesValue, argv.urlMedia, argv.urlReference);
         }
     )
     .command(

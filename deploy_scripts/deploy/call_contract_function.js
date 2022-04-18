@@ -5,7 +5,7 @@ import fs from "fs";
 import buildContractObject from "./_contract_object.js";
 import { BN } from "bn.js";
 
-async function initializeContract(ownerAccount, contractAccount, mint_cost, royalties_account, royalties_value) {
+async function initializeContract(ownerAccount, contractAccount, mint_cost, royalties_account, royalties_value, urlMedia, urlReference) {
     const contract = await buildContractObject(ownerAccount, contractAccount);
 
     let namedArgs = {
@@ -28,7 +28,9 @@ async function initializeContract(ownerAccount, contractAccount, mint_cost, roya
         },
         mint_cost: nearAPI.utils.format.parseNearAmount(mint_cost),
         royalties_account: royalties_account,
-        royalties_value: royalties_value
+        royalties_value: royalties_value,
+        url_media_base: urlMedia,
+        url_reference_base: urlReference
 
     };
 
@@ -111,36 +113,16 @@ async function addToWhiteList(ownerAccount, contractAccount, listBeneficiaries, 
 async function addMetadata(ownerAccount, contractAccount) {
     const contract = await buildContractObject(ownerAccount, contractAccount);
 
-    let metaDataMap = {};
-    let totalCount = 2331;
-    let counter = 1;
-
-    while (counter <= totalCount) {
-        metaDataMap[counter.toString()] = JSON.parse(fs.readFileSync(`../json_generation/chain_json/${counter}.json`, "utf-8"));
-        counter += 1;
-    }
-
-    console.log(metaDataMap);
-
-    const chunkSize = 100;
-    let currentStart = 1;
-    let iterMap;
-    let i = currentStart;
-    while (currentStart <= totalCount) {
-        iterMap = {};
-        while (i <= currentStart + chunkSize) {
-            iterMap[i.toString()] = metaDataMap[i.toString()]
-            i += 1;
-        }
-        let result = await contract.add_metadatalookup({
-                metadata_map: iterMap
-            },
+    let result = false;
+    while (!result) {
+        console.log(result);
+        result = await contract.initilize_random_generator({},
             "300000000000000",
-            "1"
-        );
-        console.log(`start at ${currentStart} to ${currentStart+chunkSize} completed`);
-        currentStart += chunkSize;
+            "0"
+        )
     }
+
+    console.log(result);
 }
 
 //update_contract

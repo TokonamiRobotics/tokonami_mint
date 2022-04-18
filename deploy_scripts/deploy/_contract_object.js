@@ -11,7 +11,7 @@ async function buildContractObject(ownerAccount, contractAccount) {
             viewMethods: [],
             changeMethods: [
                 "new", "nft_mint", "nft_burn", "mint",
-                "add_to_whitelist", "add_metadatalookup", "retrieve_funds",
+                "add_to_whitelist", "initilize_random_generator", "retrieve_funds",
                 "unlock_sales", "unlock_whitelist", "change_mint_cost"
             ],
             sender: account, // account object to initialize and sign transactions.

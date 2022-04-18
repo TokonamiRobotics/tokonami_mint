@@ -49,7 +49,6 @@ pub struct Contract {
     pub perpetual_royalties: HashMap<AccountId, u128>,
     pub whitelist: LookupMap<AccountId, u128>,
     pub mint_cost: u128,
-    pub id_metadata_lookup: LookupMap<u128, TokenMetadata>,
     pub sales_locked: bool,
     pub only_whitelist: bool,
     pub random_minting: Vector<u128>,
@@ -69,7 +68,6 @@ enum StorageKey {
     Approval,
     Royalties,
     Whitelist,
-    MetadataLookup,
     RandomMinting
 }
 
@@ -117,7 +115,6 @@ impl Contract {
             metadata: LazyOption::new(StorageKey::Metadata, Some(&metadata)),
             whitelist: LookupMap::new(StorageKey::Whitelist),
             mint_cost: mint_cost.0,
-            id_metadata_lookup: LookupMap::new(StorageKey::MetadataLookup),
             sales_locked: true,
             only_whitelist: true,
             random_minting: Vector::new(StorageKey::RandomMinting),
@@ -247,20 +244,6 @@ impl Contract {
         account_id: AccountId
     ) -> u128 {
         self.whitelist.get(&account_id).unwrap_or(0)
-    }
-
-    //add metadatalookup
-    #[payable]
-    pub fn add_metadatalookup(
-        &mut self,
-        metadata_map: HashMap<String, TokenMetadata>
-    ) -> bool {
-        assert_eq!(env::predecessor_account_id(), self.tokens.owner_id, "Unauthorized");
-        assert_one_or_more_yocto();
-        for key in metadata_map.keys() {
-            self.id_metadata_lookup.insert(&key.parse::<u128>().unwrap(), metadata_map.get(key).unwrap());
-        }
-        true
     }
 
     #[payable]

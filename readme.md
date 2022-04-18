@@ -42,13 +42,15 @@ Substitute binaryLocation for the absolute path to the contract's compiled binar
 ### Initialize the contract  
 Before the contract can be used, you'll need to setup its configuration:
 ```
-nft-tokonami initialize <ownerAccount> <contractAccount> <mintCost> <royaltiesAccount> <royaltiesValue>
+nft-tokonami initialize <ownerAccount> <contractAccount> <mintCost> <royaltiesAccount> <royaltiesValue> <urlMedia> <urlReference>
 ```
 ownerAccount is the owner account you created to manage the game  
 contractAccount is the account to which the contract was deployed  
 mintCost is the cost in NEAR to mint a NFT (excluding storage deposit)
 royaltiesAccount is the account that will receive royalties from the NFT sales
-royaltiesValues is the amount of royalties to be received in each transaction (integer divided by 10000)
+royaltiesValues is the amount of royalties to be received in each transaction (integer divided by 10000)  
+urlMedia refers to the path to an ipfs gatway pointing to the CID of the folder containing the images for the collection, v.g. https://gateway.pinata.cloud/ipfs/QmehZFCwtyubKgPBRpiJ4BHURMkgWFuU2UUg4nw66bqvpb
+urlReference refers to the path to an ipfs gatway pointing to the CID of the folder containing the json files for the collection, v.g. https://gateway.pinata.cloud/ipfs/QmehZFCwtyubKgPBRpiJ4BHURMkgWFuU2UUg4nw66bqvpb
   
 ### add to whitelist
 To add wallets to the buying whitelist:
