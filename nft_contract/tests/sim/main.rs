@@ -77,46 +77,60 @@ fn simulate_full_flow() {
             "metadata": nft_contract_metadata,
             "mint_cost": U128(ONE_NEAR),
             "royalties_account": dev_account.account_id(),
-            "royalties_value": U128(500)
+            "royalties_value": U128(500),
+            "url_media_base": "test".to_string(), 
+            "url_reference_base": "test".to_string()
         }).to_string().into_bytes(),
         GAS_ATTACHMENT, 
         0
     ).assert_success();
     
-    let mut metadata_hashmap = HashMap::<String, TokenMetadata>::new();
+    // let mut metadata_hashmap = HashMap::<String, TokenMetadata>::new();
 
-    let mut i: u128 = 1;
-    while i < 100 {
-        metadata_hashmap.insert(i.to_string(), TokenMetadata {
-            title: Some("Olympus Mons".into()),
-            description: Some("The tallest mountain in the charted solar system".into()),
-            media: None,
-            media_hash: None,
-            copies: Some(1u64),
-            issued_at: None,
-            expires_at: None,
-            starts_at: None,
-            updated_at: None,
-            extra: None,
-            reference: None,
-            reference_hash: None,
-            nft_rarity: Some(i.to_string()),
-            nft_type: None
-        });
-        i = i + 1;
+    // let mut i: u128 = 1;
+    // while i < 100 {
+    //     metadata_hashmap.insert(i.to_string(), TokenMetadata {
+    //         title: Some("Olympus Mons".into()),
+    //         description: Some("The tallest mountain in the charted solar system".into()),
+    //         media: None,
+    //         media_hash: None,
+    //         copies: Some(1u64),
+    //         issued_at: None,
+    //         expires_at: None,
+    //         starts_at: None,
+    //         updated_at: None,
+    //         extra: None,
+    //         reference: None,
+    //         reference_hash: None,
+    //         nft_rarity: Some(i.to_string()),
+    //         nft_type: None
+    //     });
+    //     i = i + 1;
+    // }
+
+    // dev_account.call(
+    //     nft_account.account_id(), 
+    //     "add_metadatalookup",
+    //     &json!({
+    //         "metadata_map": metadata_hashmap
+    //     }).to_string().into_bytes(),
+    //     GAS_ATTACHMENT, 
+    //     1
+    // ).assert_success();
+    
+    let mut result: bool = false;
+    while !result {
+        result = dev_account.call(
+            nft_account.account_id(), 
+            "initilize_random_generator",
+            &json!({
+            }).to_string().into_bytes(),
+            GAS_ATTACHMENT, 
+            0
+        ).unwrap_json();
     }
-
-    dev_account.call(
-        nft_account.account_id(), 
-        "add_metadatalookup",
-        &json!({
-            "metadata_map": metadata_hashmap
-        }).to_string().into_bytes(),
-        GAS_ATTACHMENT, 
-        1
-    ).assert_success();
-
-    let whitelist_hashmap = HashMap::from([(&consumer1.account_id, 2), (&consumer2.account_id, 4)]);
+    
+    let whitelist_hashmap = HashMap::from([(&consumer1.account_id, 3000), (&consumer2.account_id, 3000)]);
 
     dev_account.call(
         nft_account.account_id(), 
@@ -139,15 +153,32 @@ fn simulate_full_flow() {
     ).assert_success();
 
     //mint correct number of nfts with consumer 1
-    consumer1.call(
-        nft_account.account_id(), 
-        "nft_mint",
-        &json!({
-            "quantity": U128(2)
-        }).to_string().into_bytes(),
-        GAS_ATTACHMENT, 
-        2012280000000000000000000
-    ).assert_success();
+    let mut x = 1;
+    while x <= 2331 {
+        consumer1.call(
+            nft_account.account_id(), 
+            "nft_mint",
+            &json!({
+                "quantity": U128(1)
+            }).to_string().into_bytes(),
+            GAS_ATTACHMENT, 
+            2012280000000000000000000
+        ).assert_success();
+        x=x+1
+    }
+
+    should_fail(
+        consumer1.call(
+            nft_account.account_id(), 
+            "nft_mint",
+            &json!({
+                "quantity": U128(1)
+            }).to_string().into_bytes(),
+            GAS_ATTACHMENT, 
+            2012280000000000000000000
+        )
+    );
+    
 
     let minted: String = consumer1.call(
         nft_account.account_id(), 
@@ -159,7 +190,7 @@ fn simulate_full_flow() {
         1
     ).unwrap_json();
 
-    assert_eq!(minted, "2".to_string());
+    assert_eq!(minted, "2331".to_string());
 
     should_fail(
         consumer2.call(
@@ -186,49 +217,49 @@ fn simulate_full_flow() {
     );
     
     //test burn feature
-    consumer1.call(
-        nft_account.account_id(), 
-        "nft_burn",
-        &json!({
-            "sender_id": consumer1.account_id(),
-            "token_id": "1"
-        }).to_string().into_bytes(),
-        GAS_ATTACHMENT, 
-        1
-    ).assert_success();
+    // consumer1.call(
+    //     nft_account.account_id(), 
+    //     "nft_burn",
+    //     &json!({
+    //         "sender_id": consumer1.account_id(),
+    //         "token_id": "1"
+    //     }).to_string().into_bytes(),
+    //     GAS_ATTACHMENT, 
+    //     1
+    // ).assert_success();
 
-    let minted_1: String = consumer1.call(
-        nft_account.account_id(), 
-        "nft_supply_for_owner",
-        &json!({
-            "account_id": consumer1.account_id()
-        }).to_string().into_bytes(),
-        GAS_ATTACHMENT, 
-        1
-    ).unwrap_json();
+    // let minted_1: String = consumer1.call(
+    //     nft_account.account_id(), 
+    //     "nft_supply_for_owner",
+    //     &json!({
+    //         "account_id": consumer1.account_id()
+    //     }).to_string().into_bytes(),
+    //     GAS_ATTACHMENT, 
+    //     1
+    // ).unwrap_json();
 
-    let minted_system: String = consumer1.call(
-        nft_account.account_id(), 
-        "nft_supply_for_owner",
-        &json!({
-            "account_id": "system"
-        }).to_string().into_bytes(),
-        GAS_ATTACHMENT, 
-        1
-    ).unwrap_json();
+    // let minted_system: String = consumer1.call(
+    //     nft_account.account_id(), 
+    //     "nft_supply_for_owner",
+    //     &json!({
+    //         "account_id": "system"
+    //     }).to_string().into_bytes(),
+    //     GAS_ATTACHMENT, 
+    //     1
+    // ).unwrap_json();
 
-    assert_eq!(minted_1, "1".to_string());
-    assert_eq!(minted_system, "1".to_string());
+    // assert_eq!(minted_1, "1".to_string());
+    // assert_eq!(minted_system, "1".to_string());
 
-    consumer1.call(
-        nft_account.account_id(), 
-        "nft_payout",
-        &json!({
-            "token_id": "1",
-            "balance": U128(1000),
-            "max_len_payout": 5
-        }).to_string().into_bytes(),
-        GAS_ATTACHMENT, 
-        1
-    ).assert_success();
+    // consumer1.call(
+    //     nft_account.account_id(), 
+    //     "nft_payout",
+    //     &json!({
+    //         "token_id": "1",
+    //         "balance": U128(1000),
+    //         "max_len_payout": 5
+    //     }).to_string().into_bytes(),
+    //     GAS_ATTACHMENT, 
+    //     1
+    // ).assert_success();
 }

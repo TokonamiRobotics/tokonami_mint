@@ -36,10 +36,7 @@ pub struct TokenMetadata {
     pub reference_hash: Option<Base64VecU8>, // Base64-encoded sha256 hash of JSON from reference field. Required if `reference` is included.
 
     // special metadata
-    pub nft_type: Option<String>,
-    pub nft_rarity: Option<String>,
-    
-
+    pub nft_type: Option<String>
 }
 
 /// Offers details on the contract-level metadata.

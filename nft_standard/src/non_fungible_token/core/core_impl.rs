@@ -149,7 +149,6 @@ impl NonFungibleToken {
                     reference: None,
                     reference_hash: None,
                     nft_type: None,
-                    nft_rarity: None,
                 },
             );
         }
