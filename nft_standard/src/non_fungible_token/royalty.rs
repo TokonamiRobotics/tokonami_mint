@@ -15,7 +15,7 @@ use std::convert::TryInto;
 #[derive(Serialize, Deserialize)]
 #[serde(crate = "near_sdk::serde")]
 pub struct Payout {
-  pub payout: HashMap<AccountId, u128>,
+  pub payout: HashMap<AccountId, U128>,
 }
 
 pub(crate) fn royalty_to_payout(royalty_percentage: u32, amount_to_pay: Balance) -> U128 {
@@ -66,13 +66,13 @@ impl Royalty for NonFungibleToken {
             //only insert into the payout if the key isn't the token owner (we add their payout at the end)
 			if key != owner_id {
                 //
-				payout_object.payout.insert(key, royalty_to_payout((*v).try_into().unwrap(), balance_u128).0);
+				payout_object.payout.insert(key, royalty_to_payout((*v).try_into().unwrap(), balance_u128));
 				total_perpetual += *v;
 			}
 		}
 
 		// payout to previous owner who gets 100% - total perpetual royalties
-		payout_object.payout.insert(owner_id, royalty_to_payout((10000 - total_perpetual).try_into().unwrap(), balance_u128).0);
+		payout_object.payout.insert(owner_id, royalty_to_payout((10000 - total_perpetual).try_into().unwrap(), balance_u128));
 
         //return the payout object
 		payout_object
@@ -130,13 +130,13 @@ impl Royalty for NonFungibleToken {
             //only insert into the payout if the key isn't the token owner (we add their payout at the end)
 			if key != owner_id {
                 //
-				payout_object.payout.insert(key, royalty_to_payout((*v).try_into().unwrap(), balance_u128).0);
+				payout_object.payout.insert(key, royalty_to_payout((*v).try_into().unwrap(), balance_u128));
 				total_perpetual += *v;
 			}
 		}
 
 		// payout to previous owner who gets 100% - total perpetual royalties
-		payout_object.payout.insert(owner_id, royalty_to_payout((10000 - total_perpetual).try_into().unwrap(), balance_u128).0);
+		payout_object.payout.insert(owner_id, royalty_to_payout((10000 - total_perpetual).try_into().unwrap(), balance_u128));
 
         //return the payout object
 		payout_object

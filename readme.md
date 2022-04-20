@@ -65,7 +65,7 @@ allowance is the amount of NFTs that the beneficiaries will be able to mint
 ### add metadata to chain
 To add the metadata for minting:
 ```
-nft-tokonami addMetadata <ownerAccount> <contractAccount>'
+nft-tokonami addMetadata <ownerAccount> <contractAccount>
 ```
 ownerAccount is the owner account you created to manage the game  
 contractAccount is the account to which the contract was deployed 
