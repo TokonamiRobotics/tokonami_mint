@@ -4,7 +4,7 @@ use crate::non_fungible_token::metadata::TokenMetadata;
 use crate::non_fungible_token::events::{NftMint, NftTransfer};
 use crate::non_fungible_token::token::{Token, TokenId};
 use crate::non_fungible_token::utils::{
-    hash_account_id, refund_approved_account_ids, refund_deposit_mint, refund_deposit
+    hash_account_id, refund_approved_account_ids
 };
 use near_sdk::borsh::{self, BorshDeserialize, BorshSerialize};
 use near_sdk::collections::{LookupMap, TreeMap, UnorderedSet};
